@@ -56,8 +56,8 @@ def decrypt(message, key):
 	'''
 	decrypted = ""
 	# letter frequencies acquired from letterfrequency.org
-	#alphabet = list('etaoinsrhldcumfpgwybvkxjqz')
-	alphabet = list('abcdefghijklmnopqrstuvwxyz')
+	alphabet = list('etaoinsrhldcumfpgwybvkxjqz')
+	#alphabet = list('abcdefghijklmnopqrstuvwxyz')
 	for letter in message:
 		if(letter == " "):
 				decrypted += letter
@@ -167,9 +167,28 @@ def generate_keys(distribution):
 
 	# append the extra permutations and finally create the list of keys
 	perm_map.append(extra_strings)
+
+	#keys = [reorder_key(''.join(x)) for x in list(it.product(*perm_map))]
 	keys = [''.join(x) for x in list(it.product(*perm_map))]
 
 	return keys
+
+def reorder_key(old_key):
+	# this is a computational bottleneck :( must be redesigned to use
+	alpha = list('abcdefghijklmnopqrstuvwxyz')
+	most_freq = list('etaoinsrhldcumfpgwybvkxjqz')
+
+	old_key = list(old_key)
+
+	new_key = ""
+	for i, letter in enumerate(alpha):
+		for j, char in enumerate(most_freq):
+			if letter == char:
+				new_key += old_key[j]
+
+	assert(len(new_key) == 26)
+	return ''.join(new_key)
+
 
 def calc_entropy(distribution):
 	'''
