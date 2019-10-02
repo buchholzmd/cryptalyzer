@@ -107,7 +107,9 @@ class GeneticAlgorithm:
 		self.results = []
 		self.file_name = path + file_name
 		
-		os.makedirs(path)
+		if not os.path.exists(path):
+			os.makedirs(path)
+
 		self.result_file = open(self.file_name + ".txt", "w")
 
 	def generate_population(self):
