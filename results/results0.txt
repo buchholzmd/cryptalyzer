@@ -1,0 +1,4284 @@
+------------------------
+Epoch 0
+Train time 8.704499959945679
+Best key: njbwufcvxqkardhmiegoplszty
+Loss: 140000025.04090735
+fjbgc mdbdb habli cakob doigj aldbh afine pchae ebccf aag
+
+------------------------
+Epoch 1
+Train time 9.109977722167969
+Best key: njbwxcfvuqhardkmigepolyzts
+Loss: 130000032.55427828
+gjbfc mdbdb hable caokb dkefj aldbh ageni pchai ibccg aaf
+
+------------------------
+Epoch 2
+Train time 8.343505144119263
+Best key: njbwxufvcqgarmdkiehplotysz
+Loss: 130000035.9215741
+gjbic mdbdb hable capsb dseij aldbh ageof nchaf fbccg aai
+
+------------------------
+Epoch 3
+Train time 8.392680883407593
+Best key: jnbwfvucxhaqrdmkeiglpozyts
+Loss: 140000024.88935745
+elahc mdada fbaki cbpja djihl bkdaf being ocfbg gacce bbh
+
+------------------------
+Epoch 4
+Train time 8.335521936416626
+Best key: dnbwfcxvuhqakrjmigeolpyzts
+Loss: 140000028.7969261
+ekofc ndodo hbolg cbmjo djgfk bldoh begai pchbi iocce bbf
+
+------------------------
+Epoch 5
+Train time 8.354998111724854
+Best key: jnawvlxzcqhbkdmreigpuotsfy
+Loss: 140000024.12271935
+yjail pdada ebacg lbmka dkgij bcdae bygnu olebu ually bbi
+
+------------------------
+Epoch 6
+Train time 8.340330123901367
+Best key: jnawvlxzcqhbkdmreigpuotsfy
+Loss: 140000024.12271935
+yjail pdada ebacg lbmka dkgij bcdae bygnu olebu ually bbi
+
+------------------------
+Epoch 7
+Train time 8.376072883605957
+Best key: njbwxufcvhqadkmregipolyszt
+Loss: 140000019.38338265
+gkbhc pdbdb iable canjb djehk aldbi agemf ociaf fbccg aah
+
+------------------------
+Epoch 8
+Train time 9.316987991333008
+Best key: jnbkdcsvuqayrwfmexgoplzthi
+Loss: 120000050.05090249
+ojafc mnana hbakr cbdya nyrfj bknah borei pchbi iacco bbf
+
+------------------------
+Epoch 9
+Train time 10.286012887954712
+Best key: jnbkdcsvuqayrwfmexgoplzthi
+Loss: 120000050.05090249
+ojafc mnana hbakr cbdya nyrfj bknah borei pchbi iacco bbf
+
+------------------------
+Epoch 10
+Train time 10.703361988067627
+Best key: jnbkdcsvuqayrwfmexgoplzthi
+Loss: 120000050.05090249
+ojafc mnana hbakr cbdya nyrfj bknah borei pchbi iacco bbf
+
+------------------------
+Epoch 11
+Train time 10.132017135620117
+Best key: jnbkdcsvuqayrwfmexgoplzthi
+Loss: 120000050.05090249
+ojafc mnana hbakr cbdya nyrfj bknah borei pchbi iacco bbf
+
+------------------------
+Epoch 12
+Train time 8.577172040939331
+Best key: njbwufcvxqhamdkregiolpzyts
+Loss: 140000025.04090735
+fjbgc pdbdb habli caokb dkigj aldbh afine mchae ebccf aag
+
+------------------------
+Epoch 13
+Train time 8.590057849884033
+Best key: jnbkdcsvuqayrwfmexgoplzthi
+Loss: 120000050.05090249
+ojafc mnana hbakr cbdya nyrfj bknah borei pchbi iacco bbf
+
+------------------------
+Epoch 14
+Train time 8.492994785308838
+Best key: njbwucfvxqlamdrkegihoptszy
+Loss: 120000043.82494874
+gjbfc odbdb habli captb dtifj aldbh agine mchae ebccg aaf
+
+------------------------
+Epoch 15
+Train time 8.30450701713562
+Best key: janwvcufxbqhrdmkegiolpstzy
+Loss: 140000018.5834197
+hkafj mdada ecabi jcpla dlifk cbdae ching ojecg gajjh ccf
+
+------------------------
+Epoch 16
+Train time 8.315830945968628
+Best key: janwvcufxbqhrdmkegiolpstzy
+Loss: 140000018.5834197
+hkafj mdada ecabi jcpla dlifk cbdae ching ojecg gajjh ccf
+
+------------------------
+Epoch 17
+Train time 8.443572998046875
+Best key: janwvcufxbqhrdmkegiolpstzy
+Loss: 140000018.5834197
+hkafj mdada ecabi jcpla dlifk cbdae ching ojecg gajjh ccf
+
+------------------------
+Epoch 18
+Train time 8.606210947036743
+Best key: njbwxsfvuaqhkdmregilopzcyt
+Loss: 130000039.04272304
+gkbxc pdbdb habje camlb dlexk ajdbh ageni ochai ibccg aax
+
+------------------------
+Epoch 19
+Train time 8.409931182861328
+Best key: fsbwuerlvzdxcqjgmhnkpoytia
+Loss: 120000044.65422018
+anomc gdodo isozl cstro drlmn szdoi salke qcise eocca ssm
+
+------------------------
+Epoch 20
+Train time 8.374118328094482
+Best key: fsbwuerlvzdxcqjgmhnkpoytia
+Loss: 120000044.65422018
+anomc gdodo isozl cstro drlmn szdoi salke qcise eocca ssm
+
+------------------------
+Epoch 21
+Train time 8.304831981658936
+Best key: fsbwuerlvzdxcqjgmhnkpoytia
+Loss: 120000044.65422018
+anomc gdodo isozl cstro drlmn szdoi salke qcise eocca ssm
+
+------------------------
+Epoch 22
+Train time 8.311576843261719
+Best key: jnbwfcuxvhaqkmdriegplotyzs
+Loss: 140000026.34019035
+elafc pdada ibakh cbmja djhfl bkdai behog ncibg gacce bbf
+
+------------------------
+Epoch 23
+Train time 8.339565992355347
+Best key: fsbwuerlvzdgcqjxmhnkpoytia
+Loss: 130000034.77916141
+anomc gdodo isozp cstro drpmn szdoi sapke qcise eocca ssm
+
+------------------------
+Epoch 24
+Train time 8.293344020843506
+Best key: njbwucfvxqhakdrmegiplotzsy
+Loss: 130000033.68418682
+gjbfc odbdb habli camkb dkifj aldbh agine pchae ebccg aaf
+
+------------------------
+Epoch 25
+Train time 8.234255075454712
+Best key: njbwxufvchqardmkigelpozyst
+Loss: 130000037.86748426
+gkbic mdbdb hable capjb djeik aldbh agenf ochaf fbccg aai
+
+------------------------
+Epoch 26
+Train time 8.32033395767212
+Best key: njbwucfvxhqakdpreiglomtzsy
+Loss: 130000033.68418682
+gkbfc pdbdb habli camjb djifk aldbh agine vchae ebccg aaf
+
+------------------------
+Epoch 27
+Train time 8.32193112373352
+Best key: njbwucfvxhqarmkdgiepolszty
+Loss: 140000027.20587108
+gkbfc mdbdb habli caojb djifk aldbh agipe nchae ebccg aaf
+
+------------------------
+Epoch 28
+Train time 8.428839206695557
+Best key: njbwxsfcuhqamdkrigepolzytv
+Loss: 140000023.5265174
+gkbhc pdbdb zable caojb djehk aldbz ageni mczai ibccg aah
+
+------------------------
+Epoch 29
+Train time 8.97276496887207
+Best key: bojgurvqxhsawkplindfecmtyz
+Loss: 140000023.64107928
+thcva fmcmc grcli arnjc mjivh rlmcg rtise wagre ecaat rrv
+
+------------------------
+Epoch 30
+Train time 8.570750951766968
+Best key: bojgurvqxhsawkplindfecmtyz
+Loss: 140000023.64107928
+thcva fmcmc grcli arnjc mjivh rlmcg rtise wagre ecaat rrv
+
+------------------------
+Epoch 31
+Train time 9.32595419883728
+Best key: njbwxfcvuhqamkrogeidpltzsy
+Loss: 130000036.0757248
+fkbgc odbdb hable canjb djegk aldbh afeti mchai ibccf aag
+
+------------------------
+Epoch 32
+Train time 9.114544868469238
+Best key: bojgurvqxhsawkplindfecmtyz
+Loss: 140000023.64107928
+thcva fmcmc grcli arnjc mjivh rlmcg rtise wagre ecaat rrv
+
+------------------------
+Epoch 33
+Train time 9.144289016723633
+Best key: bojgurvqxhsawkplindfecmtyz
+Loss: 140000023.64107928
+thcva fmcmc grcli arnjc mjivh rlmcg rtise wagre ecaat rrv
+
+------------------------
+Epoch 34
+Train time 9.14488410949707
+Best key: njbwucfvxqhardmkgielpoystz
+Loss: 120000046.26729578
+gjbfc mdbdb habli capkb dkifj aldbh agine ochae ebccg aaf
+
+------------------------
+Epoch 35
+Train time 8.605716943740845
+Best key: bojgurvqxhsawpklindfecmtyz
+Loss: 140000023.64107928
+thcva fmcmc grcli arojc mjivh rlmcg rtise wagre ecaat rrv
+
+------------------------
+Epoch 36
+Train time 9.008856058120728
+Best key: avmgcbfpwyqhojkuezlnsxdrit
+Loss: 140000021.56069303
+gknef xinin btnav ftoln ilvek tainb tgvwp cfbtp pnffg tte
+
+------------------------
+Epoch 37
+Train time 8.69392991065979
+Best key: bojgurvqxhsawpklindfecmtyz
+Loss: 140000023.64107928
+thcva fmcmc grcli arojc mjivh rlmcg rtise wagre ecaat rrv
+
+------------------------
+Epoch 38
+Train time 8.864266157150269
+Best key: avmgcbfpwyqhojtuezlnsxdrik
+Loss: 140000021.56069303
+gknef xinin btnav ftzln ilvek tainb tgvwp cfbtp pnffg tte
+
+------------------------
+Epoch 39
+Train time 9.943148136138916
+Best key: avmgcbfpwyqhojtuezlnsxdrik
+Loss: 140000021.56069303
+gknef xinin btnav ftzln ilvek tainb tgvwp cfbtp pnffg tte
+
+------------------------
+Epoch 40
+Train time 9.676186084747314
+Best key: avmgcbfpwyqhojtuezlnsxdrik
+Loss: 140000021.56069303
+gknef xinin btnav ftzln ilvek tainb tgvwp cfbtp pnffg tte
+
+------------------------
+Epoch 41
+Train time 7.928319931030273
+Best key: njbwcufvxhqakdmrgielpoyszt
+Loss: 130000039.09583287
+gkbec pdbdb habli camjb djiek aldbh aginf ochaf fbccg aae
+
+------------------------
+Epoch 42
+Train time 7.607105016708374
+Best key: njbwucyvxqhakmrdigelopfszt
+Loss: 130000040.48212722
+wjbfc odbdb habli camkb dkifj aldbh awipe nchae ebccw aaf
+
+------------------------
+Epoch 43
+Train time 7.593632936477661
+Best key: azbugtmsoqdikrvefnjxlywphc
+Loss: 140000024.30626565
+qjszc nwsws orsat crmys wytzj rawso rqtkd gcord dsccq rrz
+
+------------------------
+Epoch 44
+Train time 7.340546131134033
+Best key: aoehupcfbqtwrvskzxnjlmgidy
+Loss: 140000023.02451515
+hjtgi mltlt nstar ispdt ldrgj saltn shrye vinse etiih ssg
+
+------------------------
+Epoch 45
+Train time 7.3763110637664795
+Best key: jnbwfvxcdqahkurmgielopzyst
+Loss: 140000019.40671164
+ejahc odada fbakg cbmla dlghj bkdaf begin pcfbn nacce bbh
+
+------------------------
+Epoch 46
+Train time 7.335055112838745
+Best key: aoehupcfbqtwrvskzxnjlmgidy
+Loss: 140000023.02451515
+hjtgi mltlt nstar ispdt ldrgj saltn shrye vinse etiih ssg
+
+------------------------
+Epoch 47
+Train time 7.33358097076416
+Best key: njbwxmfcvqharudkgeiolpyzst
+Loss: 130000030.02740744
+gjbhc mdbdb iable capkb dkehj aldbi ageon fcian nbccg aah
+
+------------------------
+Epoch 48
+Train time 7.318791151046753
+Best key: aoehupcfbqtwrvskzxnjlmgidy
+Loss: 140000023.02451515
+hjtgi mltlt nstar ispdt ldrgj saltn shrye vinse etiih ssg
+
+------------------------
+Epoch 49
+Train time 7.356856107711792
+Best key: aibcfgpnjuqlwxmetsdvzoyrkh
+Loss: 130000040.32042494
+ekidc xmimi thian chyzi mzndk hamit hensj octhj jicce hhd
+
+------------------------
+Epoch 50
+Train time 7.330078125
+Best key: agcuhotkwdbjiylqfxmzspnrve
+Loss: 130000039.85611933
+qplck xilil ywlar kwhel iercp waily wqrjd skywd dlkkq wwc
+
+------------------------
+Epoch 51
+Train time 7.323673963546753
+Best key: agcuhotkwdbjiylqfxmzspnrve
+Loss: 130000039.85611933
+qplck xilil ywlar kwhel iercp waily wqrjd skywd dlkkq wwc
+
+------------------------
+Epoch 52
+Train time 7.321800947189331
+Best key: njbwxufpvhqakdmrigeolctszy
+Loss: 140000019.63469708
+gkbvc pdbdb iable camjb djevk aldbi agenf ociaf fbccg aav
+
+------------------------
+Epoch 53
+Train time 7.352886915206909
+Best key: agcuhotkwdbjiylqfxmzspnrve
+Loss: 130000039.85611933
+qplck xilil ywlar kwhel iercp waily wqrjd skywd dlkkq wwc
+
+------------------------
+Epoch 54
+Train time 7.375056982040405
+Best key: njbwucfvxhqakdmregiplotysz
+Loss: 120000046.26729578
+gkbfc pdbdb habli camjb djifk aldbh agine ochae ebccg aaf
+
+------------------------
+Epoch 55
+Train time 7.34976601600647
+Best key: aelscipnuohqvxkrtwjdfgmzby
+Loss: 120000050.24200374
+ulsey prsrs mhsan yhoks rknel harsm hunti wymhi isyyu hhe
+
+------------------------
+Epoch 56
+Train time 7.317270755767822
+Best key: agcwjpkeyqboxmndshvzrltiuf
+Loss: 140000027.20847183
+zjeck udede soeam kogre drmcj oades ozmpy nksoy yekkz ooc
+
+------------------------
+Epoch 57
+Train time 7.305860996246338
+Best key: aelscipnuohqvxkrtwjdfgmzby
+Loss: 120000050.24200374
+ulsey prsrs mhsan yhoks rknel harsm hunti wymhi isyyu hhe
+
+------------------------
+Epoch 58
+Train time 7.335737705230713
+Best key: aelscipnuohqvxkrtwjdfgmzby
+Loss: 120000050.24200374
+ulsey prsrs mhsan yhoks rknel harsm hunti wymhi isyyu hhe
+
+------------------------
+Epoch 59
+Train time 7.308263063430786
+Best key: aelscipnuohqvxkrtwjdfgmzby
+Loss: 120000050.24200374
+ulsey prsrs mhsan yhoks rknel harsm hunti wymhi isyyu hhe
+
+------------------------
+Epoch 60
+Train time 7.354329824447632
+Best key: aelscipnuohqvxkrtwjdfgmzby
+Loss: 120000050.24200374
+ulsey prsrs mhsan yhoks rknel harsm hunti wymhi isyyu hhe
+
+------------------------
+Epoch 61
+Train time 7.54623007774353
+Best key: aelscipnuohqvxkrtwjdfgmzby
+Loss: 120000050.24200374
+ulsey prsrs mhsan yhoks rknel harsm hunti wymhi isyyu hhe
+
+------------------------
+Epoch 62
+Train time 7.4137279987335205
+Best key: aewpbsifxojgyvkthcdnmluzqr
+Loss: 130000036.1062792
+hykre zckck ntkai etoqk cqiry tackn thisw uentw wkeeh ttr
+
+------------------------
+Epoch 63
+Train time 7.345881223678589
+Best key: aelscipnuohqvxkrtwjdfgmzby
+Loss: 120000050.24200374
+ulsey prsrs mhsan yhoks rknel harsm hunti wymhi isyyu hhe
+
+------------------------
+Epoch 64
+Train time 7.356940984725952
+Best key: aelscipnuohqvxkrtwjdfgmzby
+Loss: 120000050.24200374
+ulsey prsrs mhsan yhoks rknel harsm hunti wymhi isyyu hhe
+
+------------------------
+Epoch 65
+Train time 7.3350982666015625
+Best key: agewjfzksplohuymicbvnqtrxd
+Loss: 140000021.4005439
+fvers xdede tueay suhme dmyrv uadet ufyzn pstun nessf uur
+
+------------------------
+Epoch 66
+Train time 7.310515880584717
+Best key: aelscipnuohqvxkrtwjdfgmzby
+Loss: 120000050.24200374
+ulsey prsrs mhsan yhoks rknel harsm hunti wymhi isyyu hhe
+
+------------------------
+Epoch 67
+Train time 7.30839991569519
+Best key: aelscipnuohqvxkrtwjdfgmzby
+Loss: 120000050.24200374
+ulsey prsrs mhsan yhoks rknel harsm hunti wymhi isyyu hhe
+
+------------------------
+Epoch 68
+Train time 7.306956052780151
+Best key: agewjfzksplohuymicbvnqtrxd
+Loss: 140000021.4005439
+fvers xdede tueay suhme dmyrv uadet ufyzn pstun nessf uur
+
+------------------------
+Epoch 69
+Train time 7.331947088241577
+Best key: aekscipnuohqvxlrtwjdfgmzby
+Loss: 120000050.24200374
+ulsey prsrs mhsan yhcks rknel harsm hunti wymhi isyyu hhe
+
+------------------------
+Epoch 70
+Train time 7.324290037155151
+Best key: aekscipnuohqvxlrtwjdfgmzby
+Loss: 120000050.24200374
+ulsey prsrs mhsan yhcks rknel harsm hunti wymhi isyyu hhe
+
+------------------------
+Epoch 71
+Train time 7.315593004226685
+Best key: aekscipnuohqvxlrtwjdfgmzby
+Loss: 120000050.24200374
+ulsey prsrs mhsan yhcks rknel harsm hunti wymhi isyyu hhe
+
+------------------------
+Epoch 72
+Train time 7.305869102478027
+Best key: aekscipnuohqvxlrtwjdfgmzby
+Loss: 120000050.24200374
+ulsey prsrs mhsan yhcks rknel harsm hunti wymhi isyyu hhe
+
+------------------------
+Epoch 73
+Train time 7.331441879272461
+Best key: njbwucfvxhqaldkmegiporytzs
+Loss: 130000033.68418682
+gkbfc vdbdb habli caojb djifk aldbh agine pchae ebccg aaf
+
+------------------------
+Epoch 74
+Train time 7.30935001373291
+Best key: aekscipnuohqvxlrtwjdfgmzby
+Loss: 120000050.24200374
+ulsey prsrs mhsan yhcks rknel harsm hunti wymhi isyyu hhe
+
+------------------------
+Epoch 75
+Train time 7.308518171310425
+Best key: aekscipnuohqvxlrtwjdfgmzby
+Loss: 120000050.24200374
+ulsey prsrs mhsan yhcks rknel harsm hunti wymhi isyyu hhe
+
+------------------------
+Epoch 76
+Train time 7.336215019226074
+Best key: aekscipnuohqvxlrtwjdfgmzby
+Loss: 120000050.24200374
+ulsey prsrs mhsan yhcks rknel harsm hunti wymhi isyyu hhe
+
+------------------------
+Epoch 77
+Train time 7.329451084136963
+Best key: aekscipnuohqvxlrtwjdfgmzby
+Loss: 120000050.24200374
+ulsey prsrs mhsan yhcks rknel harsm hunti wymhi isyyu hhe
+
+------------------------
+Epoch 78
+Train time 7.337363243103027
+Best key: aekscipnuohqvxlrtwjdfgmzby
+Loss: 120000050.24200374
+ulsey prsrs mhsan yhcks rknel harsm hunti wymhi isyyu hhe
+
+------------------------
+Epoch 79
+Train time 7.334596872329712
+Best key: aekscipnuohqvxlrtwjdfgmzby
+Loss: 120000050.24200374
+ulsey prsrs mhsan yhcks rknel harsm hunti wymhi isyyu hhe
+
+------------------------
+Epoch 80
+Train time 7.340896844863892
+Best key: aekscipnuohqvxlrtwjdfgmzby
+Loss: 120000050.24200374
+ulsey prsrs mhsan yhcks rknel harsm hunti wymhi isyyu hhe
+
+------------------------
+Epoch 81
+Train time 7.314267158508301
+Best key: aekscipnuohqvxlrtwjdfgmzby
+Loss: 120000050.24200374
+ulsey prsrs mhsan yhcks rknel harsm hunti wymhi isyyu hhe
+
+------------------------
+Epoch 82
+Train time 7.304086923599243
+Best key: aekscipnuohqvxlrtwjdfgmzby
+Loss: 120000050.24200374
+ulsey prsrs mhsan yhcks rknel harsm hunti wymhi isyyu hhe
+
+------------------------
+Epoch 83
+Train time 7.317925214767456
+Best key: aekscipnuohqvxlrtwjdfgmzby
+Loss: 120000050.24200374
+ulsey prsrs mhsan yhcks rknel harsm hunti wymhi isyyu hhe
+
+------------------------
+Epoch 84
+Train time 7.319360017776489
+Best key: aekscipnuohqvxlrtwjdfgmzby
+Loss: 120000050.24200374
+ulsey prsrs mhsan yhcks rknel harsm hunti wymhi isyyu hhe
+
+------------------------
+Epoch 85
+Train time 7.317648887634277
+Best key: aekscipnuohqvxlrtwjdfgmzby
+Loss: 120000050.24200374
+ulsey prsrs mhsan yhcks rknel harsm hunti wymhi isyyu hhe
+
+------------------------
+Epoch 86
+Train time 7.329061031341553
+Best key: aekscipnuohqvxlrtwjdfgmzby
+Loss: 120000050.24200374
+ulsey prsrs mhsan yhcks rknel harsm hunti wymhi isyyu hhe
+
+------------------------
+Epoch 87
+Train time 7.317219972610474
+Best key: njbwxcfuvhqakdmrgielpozyts
+Loss: 140000019.63469708
+gkbfc pdbdb iable camjb djefk aldbi agenh ociah hbccg aaf
+
+------------------------
+Epoch 88
+Train time 7.304564952850342
+Best key: aekscipnuohqvxlrtwjdfgmzby
+Loss: 120000050.24200374
+ulsey prsrs mhsan yhcks rknel harsm hunti wymhi isyyu hhe
+
+------------------------
+Epoch 89
+Train time 7.317595958709717
+Best key: adqxjlpeughcvzrmsnkwotifby
+Loss: 130000030.58715972
+xcely otete mread yrske tkdlc ratem rxdbi pymri ieyyx rrl
+
+------------------------
+Epoch 90
+Train time 7.3205931186676025
+Best key: aekscipnuohqvxlrtwjdfgmzby
+Loss: 120000050.24200374
+ulsey prsrs mhsan yhcks rknel harsm hunti wymhi isyyu hhe
+
+------------------------
+Epoch 91
+Train time 7.311542987823486
+Best key: adqxjlpeughcvzrmsnkwotbfiy
+Loss: 140000019.10266304
+xcelw otete mread wrske tkdlc ratem rxdbi pwmri iewwx rrl
+
+------------------------
+Epoch 92
+Train time 7.3316428661346436
+Best key: njbwrufvxhqakdmcigeploztys
+Loss: 130000039.09583287
+gkbpc edbdb habli camjb djipk aldbh aginf ochaf fbccg aap
+
+------------------------
+Epoch 93
+Train time 7.321841239929199
+Best key: adqxjlpeughcvzrmsnkwotbfiy
+Loss: 140000019.10266304
+xcelw otete mread wrske tkdlc ratem rxdbi pwmri iewwx rrl
+
+------------------------
+Epoch 94
+Train time 7.323049068450928
+Best key: aeiptczhgufxknbdwlmjvsyorq
+Loss: 140000021.21806812
+kztfo yqtqt untal onmht qhlfz naqtu nklpj sounj jtook nnf
+
+------------------------
+Epoch 95
+Train time 7.334061145782471
+Best key: njbwxifuvhqardmkegclopszyt
+Loss: 140000019.63469708
+gkbsc mdbdb iable capjb djesk aldbi agenh ociah hbccg aas
+
+------------------------
+Epoch 96
+Train time 7.3185179233551025
+Best key: acfejbtymorwiquhlvnxgspdzk
+Loss: 140000030.13521126
+cnebf klele rseat fszpe lptbn saler sctxo ifrso oeffc ssb
+
+------------------------
+Epoch 97
+Train time 7.313568115234375
+Best key: adrftcqkwzejnibspugmvxhoyl
+Loss: 130000039.5196471
+dglfo cilil umlav omhwl iwvfg mailu mdvbr toumr rlood mmf
+
+------------------------
+Epoch 98
+Train time 7.311996936798096
+Best key: adrftcqkwzejnibspugmvxhoyl
+Loss: 130000039.5196471
+dglfo cilil umlav omhwl iwvfg mailu mdvbr toumr rlood mmf
+
+------------------------
+Epoch 99
+Train time 7.342746019363403
+Best key: abxojtvpmwuqhkesynzfgdilcr
+Loss: 140000019.74428445
+tleyb zjeje greac brnme jmcyl rajeg rtcvk ibgrk kebbt rry
+
+------------------------
+Epoch 100
+Train time 7.298877954483032
+Best key: adrftcqkwzejnibspugmvxhoyl
+Loss: 130000039.5196471
+dglfo cilil umlav omhwl iwvfg mailu mdvbr toumr rlood mmf
+
+------------------------
+Epoch 101
+Train time 7.326128959655762
+Best key: adrftcqkwzejnibspugmvxhoyl
+Loss: 130000039.5196471
+dglfo cilil umlav omhwl iwvfg mailu mdvbr toumr rlood mmf
+
+------------------------
+Epoch 102
+Train time 7.345566034317017
+Best key: adrftcqkwzejnibspugmvxhoyl
+Loss: 130000039.5196471
+dglfo cilil umlav omhwl iwvfg mailu mdvbr toumr rlood mmf
+
+------------------------
+Epoch 103
+Train time 7.345002889633179
+Best key: adrftcqkwzejnibspugmvxhoyl
+Loss: 130000039.5196471
+dglfo cilil umlav omhwl iwvfg mailu mdvbr toumr rlood mmf
+
+------------------------
+Epoch 104
+Train time 7.329596042633057
+Best key: acbthegvjkzmlxufdorwqyspin
+Loss: 140000022.6321973
+puibc stiti hzian czjei tenbu zatih zpnqo lchzo oiccp zzb
+
+------------------------
+Epoch 105
+Train time 7.3082990646362305
+Best key: aufejbtymorwiqchlvnxgspdzk
+Loss: 130000043.4114674
+cneof klele rseat fszpe lpton saler sctxb ifrsb beffc sso
+
+------------------------
+Epoch 106
+Train time 7.304837942123413
+Best key: njbwcufvxqhakdmregiloptsyz
+Loss: 130000039.09583287
+gjbec pdbdb habli camkb dkiej aldbh aginf ochaf fbccg aae
+
+------------------------
+Epoch 107
+Train time 7.306352138519287
+Best key: njbwxfcvuhqadrmkiegpolzsty
+Loss: 130000035.56489916
+fkbgc ndbdb hable capjb djegk aldbh afemi ochai ibccf aag
+
+------------------------
+Epoch 108
+Train time 7.306591987609863
+Best key: njbwucfvxhqadkmrigelpozyts
+Loss: 130000041.04174301
+gkbfc pdbdb habli canjb djifk aldbh agime ochae ebccg aaf
+
+------------------------
+Epoch 109
+Train time 7.430856227874756
+Best key: njbwxufvchqadmrkeiglopsyzt
+Loss: 130000036.36340685
+gkbic odbdb hable capjb djeik aldbh agemf nchaf fbccg aai
+
+------------------------
+Epoch 110
+Train time 7.322540760040283
+Best key: acbthegvjkzmlxufdorwyqspin
+Loss: 140000022.6321973
+pvibc stiti hzian czjei tenbv zatih zpnqo lchzo oiccp zzb
+
+------------------------
+Epoch 111
+Train time 7.3187878131866455
+Best key: acqrobietldkvxhfywnjzpsgmu
+Loss: 140000024.7711842
+pctbf drtrt mstan fslot ronbc sartm spnkz yfmsz ztffp ssb
+
+------------------------
+Epoch 112
+Train time 7.309505939483643
+Best key: acbthegvjkzmlxufyorwdqspin
+Loss: 140000022.6321973
+pvibc stiti hzian czjei tenbv zatih zpnuo lchzo oiccp zzb
+
+------------------------
+Epoch 113
+Train time 7.307386875152588
+Best key: acbthegvjkzmlxufyorwdqspin
+Loss: 140000022.6321973
+pvibc stiti hzian czjei tenbv zatih zpnuo lchzo oiccp zzb
+
+------------------------
+Epoch 114
+Train time 7.325882196426392
+Best key: acbthegvjkzmlxufyorwdqspin
+Loss: 140000022.6321973
+pvibc stiti hzian czjei tenbv zatih zpnuo lchzo oiccp zzb
+
+------------------------
+Epoch 115
+Train time 7.315855264663696
+Best key: njbwucfvxhtakdrmgieploqsyz
+Loss: 130000033.68418682
+gwbfc odbdb habli camjb djifw aldbh agine pchae ebccg aaf
+
+------------------------
+Epoch 116
+Train time 7.3210060596466064
+Best key: acbthegvjkzplxufyorwdqsmin
+Loss: 140000022.6321973
+pvibc stiti hzian czjei tenbv zatih zpnuo xchzo oiccp zzb
+
+------------------------
+Epoch 117
+Train time 7.314682960510254
+Best key: acbthegvjkzmlxufyorwdqspin
+Loss: 140000022.6321973
+pvibc stiti hzian czjei tenbv zatih zpnuo lchzo oiccp zzb
+
+------------------------
+Epoch 118
+Train time 7.3219170570373535
+Best key: njbwxcfvuqhadkrmigeploztys
+Loss: 140000022.39400354
+gjbfc odbdb hable cankb dkefj aldbh agemi pchai ibccg aaf
+
+------------------------
+Epoch 119
+Train time 7.318635940551758
+Best key: njbwxcfvuqhamdkreiylopgzst
+Loss: 130000032.55427828
+gjbfc pdbdb hable caokb dkefj aldbh ageni mchai ibccg aaf
+
+------------------------
+Epoch 120
+Train time 7.314779043197632
+Best key: acdtvqfrjpgwbnxzeymhslukoi
+Loss: 130000040.01027001
+gfibm hlili eniao mnxti ltobf nalie ngocw smenw wimmg nnb
+
+------------------------
+Epoch 121
+Train time 7.322244167327881
+Best key: acdtvqfrjpgwbnxzeymhslukoi
+Loss: 130000040.01027001
+gfibm hlili eniao mnxti ltobf nalie ngocw smenw wimmg nnb
+
+------------------------
+Epoch 122
+Train time 7.30842399597168
+Best key: acdtvqfrjpgwbnxzeymhslukoi
+Loss: 130000040.01027001
+gfibm hlili eniao mnxti ltobf nalie ngocw smenw wimmg nnb
+
+------------------------
+Epoch 123
+Train time 7.3127360343933105
+Best key: acdtvqfrjpgwbnxzeymhslukoi
+Loss: 130000040.01027001
+gfibm hlili eniao mnxti ltobf nalie ngocw smenw wimmg nnb
+
+------------------------
+Epoch 124
+Train time 7.315392017364502
+Best key: acbihegxjkorlvufyzpwdqsmtn
+Loss: 140000023.6877073
+pvibc ltiti nziah czjei tehbv zatin zphuo xcnzo oiccp zzb
+
+------------------------
+Epoch 125
+Train time 7.306765079498291
+Best key: njbwucfvxhqardmkgieloptszy
+Loss: 120000046.26729578
+gkbfc mdbdb habli capjb djifk aldbh agine ochae ebccg aaf
+
+------------------------
+Epoch 126
+Train time 7.315624237060547
+Best key: njbwxcfvuqhamrdkzieopltgys
+Loss: 140000021.9521708
+gjbfc ndbdb hable capkb dkefj aldbh ageoi mchai ibccg aaf
+
+------------------------
+Epoch 127
+Train time 7.322862148284912
+Best key: abtojpfgnihwskqdyvrmuxlcze
+Loss: 140000027.83262616
+goexb slele rieav binke lkvxo ialer igvpu tbriu uebbg iix
+
+------------------------
+Epoch 128
+Train time 7.310109853744507
+Best key: abhdoliqjkyfwvexutsnpzgcrm
+Loss: 130000039.61722744
+lhixb ymimi ntiap btjci mcpxh tamin tlpdq zbntq qibbl ttx
+
+------------------------
+Epoch 129
+Train time 7.390614986419678
+Best key: abhdoliqjkyfwvexutsnpzgcrm
+Loss: 130000039.61722744
+lhixb ymimi ntiap btjci mcpxh tamin tlpdq zbntq qibbl ttx
+
+------------------------
+Epoch 130
+Train time 7.319800138473511
+Best key: abhdoliqjkyfwvexutsnpzgcrm
+Loss: 130000039.61722744
+lhixb ymimi ntiap btjci mcpxh tamin tlpdq zbntq qibbl ttx
+
+------------------------
+Epoch 131
+Train time 7.308864116668701
+Best key: abvzjmsixdywtcnpeohqfglkur
+Loss: 130000036.09676664
+utenb zlele coeai boxse lsint oalec ouijy fbcoy yebbu oon
+
+------------------------
+Epoch 132
+Train time 7.322358131408691
+Best key: njbwxcfvuaqhkdmrgeipolytzs
+Loss: 130000039.04272304
+gkbfc pdbdb habje camlb dlefk ajdbh ageni ochai ibccg aaf
+
+------------------------
+Epoch 133
+Train time 7.309190988540649
+Best key: abhdoqiljkyfwvexutsnpzgcrm
+Loss: 130000039.61722744
+lfixb ymimi ntiap btjci mcpxf tamin tlpdq zbntq qibbl ttx
+
+------------------------
+Epoch 134
+Train time 7.311210870742798
+Best key: abhdoqiljkyfwvexutsnpzgcrm
+Loss: 130000039.61722744
+lfixb ymimi ntiap btjci mcpxf tamin tlpdq zbntq qibbl ttx
+
+------------------------
+Epoch 135
+Train time 7.310400009155273
+Best key: abhdoqiljkyfwvexutsnpzgcrm
+Loss: 130000039.61722744
+lfixb ymimi ntiap btjci mcpxf tamin tlpdq zbntq qibbl ttx
+
+------------------------
+Epoch 136
+Train time 7.357825994491577
+Best key: njbwxcfvuqhamdrkigelpozsty
+Loss: 130000032.55427828
+gjbfc odbdb hable capkb dkefj aldbh ageni mchai ibccg aaf
+
+------------------------
+Epoch 137
+Train time 7.316299200057983
+Best key: abhdoqiljkyfwvsxutenpzgcrm
+Loss: 130000039.61722744
+lfixb ymimi ntiap btjci mcpxf tamin tlpdq zbntq qibbl ttx
+
+------------------------
+Epoch 138
+Train time 7.308790922164917
+Best key: abhdoqiljkyfwvsxutenpzgcrm
+Loss: 130000039.61722744
+lfixb ymimi ntiap btjci mcpxf tamin tlpdq zbntq qibbl ttx
+
+------------------------
+Epoch 139
+Train time 7.305439233779907
+Best key: abhdoqiljkyfwvexutsnprgczm
+Loss: 130000039.61722744
+lfixb vmimi ntiap btjci mcpxf tamin tlpdq zbntq qibbl ttx
+
+------------------------
+Epoch 140
+Train time 7.3041839599609375
+Best key: pblqnxgyjtfvsuwkiceamozrhd
+Loss: 120000051.41472398
+kdirb xoioi leitf bepyi oyfrd etoil ekfzn ublen nibbk eer
+
+------------------------
+Epoch 141
+Train time 7.2936110496521
+Best key: abhdoqiljkyfwvsxutenpzgcrm
+Loss: 130000039.61722744
+lfixb ymimi ntiap btjci mcpxf tamin tlpdq zbntq qibbl ttx
+
+------------------------
+Epoch 142
+Train time 7.312330961227417
+Best key: abhdcqiljkyfwvsxutenpzgorm
+Loss: 130000039.61722744
+lfieb ymimi ntiap btjci mcpef tamin tlpdq zbntq qibbl tte
+
+------------------------
+Epoch 143
+Train time 7.316843032836914
+Best key: ablpndsqwmzvxoheijcurytfkg
+Loss: 120000054.45413132
+xhrsb uirir leram beyor iomsh eairl exmft jblet trbbx ees
+
+------------------------
+Epoch 144
+Train time 7.310758113861084
+Best key: ablpndsqwmzvxoheijcurytfkg
+Loss: 120000054.45413132
+xhrsb uirir leram beyor iomsh eairl exmft jblet trbbx ees
+
+------------------------
+Epoch 145
+Train time 7.326070070266724
+Best key: abhdcqiljkyfwvsxutenpzgorm
+Loss: 130000039.61722744
+lfieb ymimi ntiap btjci mcpef tamin tlpdq zbntq qibbl tte
+
+------------------------
+Epoch 146
+Train time 7.813091993331909
+Best key: abhdcqiljkyfwvsxutenpzgorm
+Loss: 130000039.61722744
+lfieb ymimi ntiap btjci mcpef tamin tlpdq zbntq qibbl tte
+
+------------------------
+Epoch 147
+Train time 7.270301103591919
+Best key: abepndsqwmzvxohlijcurytfkg
+Loss: 120000054.45413132
+xhrsb uirir leram beyor iomsh eairl exmft jblet trbbx ees
+
+------------------------
+Epoch 148
+Train time 7.206374883651733
+Best key: njbwxcfvuqhakdmriegploztys
+Loss: 120000045.13738725
+gjbfc pdbdb hable camkb dkefj aldbh ageni ochai ibccg aaf
+
+------------------------
+Epoch 149
+Train time 13.259026050567627
+Best key: abepngsqwmzvxohlijcurytfkd
+Loss: 120000054.45413132
+xhrsb uirir leram beyor iomsh eairl exmzt jblet trbbx ees
+
+------------------------
+Epoch 150
+Train time 9.602617979049683
+Best key: abepngsqwmzvxohlijcurytfkd
+Loss: 120000054.45413132
+xhrsb uirir leram beyor iomsh eairl exmzt jblet trbbx ees
+
+------------------------
+Epoch 151
+Train time 7.166696071624756
+Best key: abepngsqwmzvxohlijcurytfkd
+Loss: 120000054.45413132
+xhrsb uirir leram beyor iomsh eairl exmzt jblet trbbx ees
+
+------------------------
+Epoch 152
+Train time 7.134002208709717
+Best key: njbcxwfvuhqardkmiegplotzsy
+Loss: 130000032.55427828
+gkbdc mfbfb hable caojb fjedk alfbh ageni pchai ibccg aad
+
+------------------------
+Epoch 153
+Train time 7.139164924621582
+Best key: abepngsqwmzvxohlijcurytfkd
+Loss: 120000054.45413132
+xhrsb uirir leram beyor iomsh eairl exmzt jblet trbbx ees
+
+------------------------
+Epoch 154
+Train time 7.150068044662476
+Best key: abepngsqwmzvxohlijcurytfkd
+Loss: 120000054.45413132
+xhrsb uirir leram beyor iomsh eairl exmzt jblet trbbx ees
+
+------------------------
+Epoch 155
+Train time 7.165539264678955
+Best key: abepngsqwmzvxohlijcurytfkd
+Loss: 120000054.45413132
+xhrsb uirir leram beyor iomsh eairl exmzt jblet trbbx ees
+
+------------------------
+Epoch 156
+Train time 663.5824749469757
+Best key: abepngsqwmzvxohlijcurytfkd
+Loss: 120000054.45413132
+xhrsb uirir leram beyor iomsh eairl exmzt jblet trbbx ees
+
+------------------------
+Epoch 157
+Train time 7.324964284896851
+Best key: abepngsqwmzvxohlijcurytfkd
+Loss: 120000054.45413132
+xhrsb uirir leram beyor iomsh eairl exmzt jblet trbbx ees
+
+------------------------
+Epoch 158
+Train time 17.021387100219727
+Best key: abepngsqwmzvxohlijcurytfkd
+Loss: 120000054.45413132
+xhrsb uirir leram beyor iomsh eairl exmzt jblet trbbx ees
+
+------------------------
+Epoch 159
+Train time 7.170939207077026
+Best key: abepngsqwmzvxohlijcurytfkd
+Loss: 120000054.45413132
+xhrsb uirir leram beyor iomsh eairl exmzt jblet trbbx ees
+
+------------------------
+Epoch 160
+Train time 7.141969203948975
+Best key: abepngsqwmzvxohlijcurytfkd
+Loss: 120000054.45413132
+xhrsb uirir leram beyor iomsh eairl exmzt jblet trbbx ees
+
+------------------------
+Epoch 161
+Train time 7.151401042938232
+Best key: abhgliztjkyfwveuxrsnocmpqd
+Loss: 130000039.61722744
+lyivb rmimi ntiaq btjci mcqvy tamin tlqzp wbntp pibbl ttv
+
+------------------------
+Epoch 162
+Train time 2335.478840827942
+Best key: abepngsqwmzvxohlijcurytfkd
+Loss: 120000054.45413132
+xhrsb uirir leram beyor iomsh eairl exmzt jblet trbbx ees
+
+------------------------
+Epoch 163
+Train time 7.360183238983154
+Best key: njbwxcfvuqhadmrkgieplotsyz
+Loss: 130000033.72434954
+gjbfc odbdb hable capkb dkefj aldbh agemi nchai ibccg aaf
+
+------------------------
+Epoch 164
+Train time 17.186596870422363
+Best key: njbwuflvxqhakdmreigpcostzy
+Loss: 130000037.62401633
+fjbuc pdbdb habli camkb dkiuj aldbh afine ochae ebccf aau
+
+------------------------
+Epoch 165
+Train time 7.152360916137695
+Best key: abepngsqwmuvxohlijczrytfkd
+Loss: 130000041.17787518
+xhrsb uirir leram beyor iomsh eairl exmzk jblek krbbx ees
+
+------------------------
+Epoch 166
+Train time 7.188133001327515
+Best key: njbwucfvxhqardkmigeploystz
+Loss: 130000033.68418682
+gkbfc mdbdb habli caojb djifk aldbh agine pchae ebccg aaf
+
+------------------------
+Epoch 167
+Train time 7.15277099609375
+Best key: njbwucxvfqhakdmrepgiolszty
+Loss: 140000027.96615756
+ijbfc pdbdb hablg camkb dkgfj aldbh aigne ochae ebcci aaf
+
+------------------------
+Epoch 168
+Train time 3055.6090018749237
+Best key: njbwucfvxqhakdmrigeploszty
+Loss: 120000046.26729578
+gjbfc pdbdb habli camkb dkifj aldbh agine ochae ebccg aaf
+
+------------------------
+Epoch 169
+Train time 7.5090460777282715
+Best key: njbwucfvxqhadmkriegoplytsz
+Loss: 130000039.78898004
+gjbfc pdbdb habli caokb dkifj aldbh agime nchae ebccg aaf
+
+------------------------
+Epoch 170
+Train time 16.946763038635254
+Best key: jnbwfcuxvqahkmdrgeioplytzs
+Loss: 140000026.34019035
+ejafc pdada ibakh cbmla dlhfj bkdai behog ncibg gacce bbf
+
+------------------------
+Epoch 171
+Train time 7.154865980148315
+Best key: njbwcufvxhqardmkigeplotsyz
+Loss: 130000039.09583287
+gkbec mdbdb habli capjb djiek aldbh aginf ochaf fbccg aae
+
+------------------------
+Epoch 172
+Train time 7.165118932723999
+Best key: njbwxcfvuahqzdmregiolpystk
+Loss: 130000039.04272304
+glbfc pdbdb habje cazkb dkefl ajdbh ageni ochai ibccg aaf
+
+------------------------
+Epoch 173
+Train time 7.139822959899902
+Best key: njbwxtfcvhqadmrkgielpoyszu
+Loss: 140000021.88890857
+gkbhc odbdb iable capjb djehk aldbi agemz nciaz zbccg aah
+
+------------------------
+Epoch 174
+Train time 7206.48436832428
+Best key: abfvjikqmtzoghsdrnewxlucpy
+Loss: 140000020.74852782
+chexb qtete dreau brgne tnuxh rated rcupw ibdrw webbc rrx
+
+------------------------
+Epoch 175
+Train time 7.312087774276733
+Best key: abfvjikqmtzoghsdrnewxlucpy
+Loss: 140000020.74852782
+chexb qtete dreau brgne tnuxh rated rcupw ibdrw webbc rrx
+
+------------------------
+Epoch 176
+Train time 16.94645094871521
+Best key: abfvjikqmtzoghsdrnewxlucpy
+Loss: 140000020.74852782
+chexb qtete dreau brgne tnuxh rated rcupw ibdrw webbc rrx
+
+------------------------
+Epoch 177
+Train time 7.15147590637207
+Best key: abhvorlqjyzngpftcxsekwdmui
+Loss: 130000041.29120387
+ohiqb fvivi dliar bluci vcrqh lavid lorwy xbdly yibbo llq
+
+------------------------
+Epoch 178
+Train time 7.147784233093262
+Best key: abhvorlqjyzngpftcxsekwdmui
+Loss: 130000041.29120387
+ohiqb fvivi dliar bluci vcrqh lavid lorwy xbdly yibbo llq
+
+------------------------
+Epoch 179
+Train time 7.138277053833008
+Best key: njbwufcvxhqardmzeigpolktys
+Loss: 130000037.62401633
+fkbgc mdbdb habli cawjb djigk aldbh afine ochae ebccf aag
+
+------------------------
+Epoch 180
+Train time 7.155355215072632
+Best key: abhuorlqjyzngpftcxsekwdmvi
+Loss: 120000054.56746002
+ohiqb fvivi yliar bluci vcrqh laviy lorwd xbyld dibbo llq
+
+------------------------
+Epoch 181
+Train time 7206.58673119545
+Best key: abhuorlqjyzngpftcxsekwdmvi
+Loss: 120000054.56746002
+ohiqb fvivi yliar bluci vcrqh laviy lorwd xbyld dibbo llq
+
+------------------------
+Epoch 182
+Train time 16.924391269683838
+Best key: abhuorlqjyzngpftcxsekwdmvi
+Loss: 120000054.56746002
+ohiqb fvivi yliar bluci vcrqh laviy lorwd xbyld dibbo llq
+
+------------------------
+Epoch 183
+Train time 7.1467578411102295
+Best key: abhuorlqjyzngpftcxsekwdmvi
+Loss: 120000054.56746002
+ohiqb fvivi yliar bluci vcrqh laviy lorwd xbyld dibbo llq
+
+------------------------
+Epoch 184
+Train time 7.139502048492432
+Best key: abhuorlqjyzngpftcxsekwdmvi
+Loss: 120000054.56746002
+ohiqb fvivi yliar bluci vcrqh laviy lorwd xbyld dibbo llq
+
+------------------------
+Epoch 185
+Train time 7.145965099334717
+Best key: abhuorlqjyzngpftcxsekwdmvi
+Loss: 120000054.56746002
+ohiqb fvivi yliar bluci vcrqh laviy lorwd xbyld dibbo llq
+
+------------------------
+Epoch 186
+Train time 7.145334005355835
+Best key: abhuorlqjyzngpftcxsekwdmvi
+Loss: 120000054.56746002
+ohiqb fvivi yliar bluci vcrqh laviy lorwd xbyld dibbo llq
+
+------------------------
+Epoch 187
+Train time 1126.154713153839
+Best key: abhuorlqjyzngpftcxsekwdmvi
+Loss: 120000054.56746002
+ohiqb fvivi yliar bluci vcrqh laviy lorwd xbyld dibbo llq
+
+------------------------
+Epoch 188
+Train time 17.516866207122803
+Best key: njbwxcfvuhqarmdkigeoplstzy
+Loss: 130000033.28251679
+gkbfc mdbdb hable capjb djefk aldbh ageoi nchai ibccg aaf
+
+------------------------
+Epoch 189
+Train time 7.76885986328125
+Best key: abhuorlqjyzngpftixsekwdmvc
+Loss: 120000054.56746002
+ohizb fvivi yliar bluci vcrzh laviy lorwd xbyld dibbo llz
+
+------------------------
+Epoch 190
+Train time 8.472487926483154
+Best key: njbwxcfvuqhadkmreigplotzsy
+Loss: 130000034.9771125
+gjbfc pdbdb hable cankb dkefj aldbh agemi ochai ibccg aaf
+
+------------------------
+Epoch 191
+Train time 8.332610845565796
+Best key: abhuorlqjyzngpftixsekwdmvc
+Loss: 120000054.56746002
+ohizb fvivi yliar bluci vcrzh laviy lorwd xbyld dibbo llz
+
+------------------------
+Epoch 192
+Train time 90.95449304580688
+Best key: abhuorlqjyzngpftixsekwdmvc
+Loss: 120000054.56746002
+ohizb fvivi yliar bluci vcrzh laviy lorwd xbyld dibbo llz
+
+------------------------
+Epoch 193
+Train time 7.983257055282593
+Best key: abhuorlqjyzngpftixsekwdmvc
+Loss: 120000054.56746002
+ohizb fvivi yliar bluci vcrzh laviy lorwd xbyld dibbo llz
+
+------------------------
+Epoch 194
+Train time 17.352216958999634
+Best key: njbsxufvchqarmdkigepolwtyz
+Loss: 130000035.9215741
+gkbic mwbwb hable capjb wjeik alwbh ageof nchaf fbccg aai
+
+------------------------
+Epoch 195
+Train time 7.232270956039429
+Best key: abhuorlqjyzngpftixsekwdmvc
+Loss: 120000054.56746002
+ohizb fvivi yliar bluci vcrzh laviy lorwd xbyld dibbo llz
+
+------------------------
+Epoch 196
+Train time 7.827315807342529
+Best key: abhuorlqjyzngpftixsekwdmvc
+Loss: 120000054.56746002
+ohizb fvivi yliar bluci vcrzh laviy lorwd xbyld dibbo llz
+
+------------------------
+Epoch 197
+Train time 7.779346942901611
+Best key: abhuorlqjyzngpftixsekwdmvc
+Loss: 120000054.56746002
+ohizb fvivi yliar bluci vcrzh laviy lorwd xbyld dibbo llz
+
+------------------------
+Epoch 198
+Train time 23.325169801712036
+Best key: abhuorlqjyzngpftixsekwdmvc
+Loss: 120000054.56746002
+ohizb fvivi yliar bluci vcrzh laviy lorwd xbyld dibbo llz
+
+------------------------
+Epoch 199
+Train time 7.7675621509552
+Best key: abhuorlqjyzngpftixsekwdmvc
+Loss: 120000054.56746002
+ohizb fvivi yliar bluci vcrzh laviy lorwd xbyld dibbo llz
+
+------------------------
+Epoch 200
+Train time 17.28631591796875
+Best key: abhzorlyjqenupftcikwmvdsgx
+Loss: 140000023.2161452
+ojiqb ftiti vliaz blsci tczqj lativ lozwm ubvlm mibbo llq
+
+------------------------
+Epoch 201
+Train time 7.655256032943726
+Best key: abhuorlqjyzngpftixsekwdmvc
+Loss: 120000054.56746002
+ohizb fvivi yliar bluci vcrzh laviy lorwd xbyld dibbo llz
+
+------------------------
+Epoch 202
+Train time 7.310056924819946
+Best key: njbwxcfvuhqamdrketglopyisz
+Loss: 130000032.55427828
+gkbfc odbdb hable capjb djefk aldbh ageni mchai ibccg aaf
+
+------------------------
+Epoch 203
+Train time 7.27518892288208
+Best key: abhuorlqjyzngpftixsekwdmvc
+Loss: 120000054.56746002
+ohizb fvivi yliar bluci vcrzh laviy lorwd xbyld dibbo llz
+
+------------------------
+Epoch 204
+Train time 7.655774116516113
+Best key: abhuorlqjyzngpftixsekwdmvc
+Loss: 120000054.56746002
+ohizb fvivi yliar bluci vcrzh laviy lorwd xbyld dibbo llz
+
+------------------------
+Epoch 205
+Train time 7.438637971878052
+Best key: abhuorlqjyzngpftixsekwdmvc
+Loss: 120000054.56746002
+ohizb fvivi yliar bluci vcrzh laviy lorwd xbyld dibbo llz
+
+------------------------
+Epoch 206
+Train time 7.298273086547852
+Best key: abhuorlqjyzngpftixsekwdmvc
+Loss: 120000054.56746002
+ohizb fvivi yliar bluci vcrzh laviy lorwd xbyld dibbo llz
+
+------------------------
+Epoch 207
+Train time 7.317848205566406
+Best key: abhuorlqjyzngpftixsekwdmvc
+Loss: 120000054.56746002
+ohizb fvivi yliar bluci vcrzh laviy lorwd xbyld dibbo llz
+
+------------------------
+Epoch 208
+Train time 7.589039087295532
+Best key: abhuorlqjyzngpftixsekwdmvc
+Loss: 120000054.56746002
+ohizb fvivi yliar bluci vcrzh laviy lorwd xbyld dibbo llz
+
+------------------------
+Epoch 209
+Train time 7.2723188400268555
+Best key: abhuorlqjyzngpftixsekwdmvc
+Loss: 120000054.56746002
+ohizb fvivi yliar bluci vcrzh laviy lorwd xbyld dibbo llz
+
+------------------------
+Epoch 210
+Train time 7.223340034484863
+Best key: abhuorlqjyzngpftixsekwdmvc
+Loss: 120000054.56746002
+ohizb fvivi yliar bluci vcrzh laviy lorwd xbyld dibbo llz
+
+------------------------
+Epoch 211
+Train time 90.73150897026062
+Best key: njbwxcfvuhqardmkgieployzts
+Loss: 120000045.13738725
+gkbfc mdbdb hable capjb djefk aldbh ageni ochai ibccg aaf
+
+------------------------
+Epoch 212
+Train time 8.0971519947052
+Best key: ashuorlqjyzngpftixbekwdmvc
+Loss: 110000062.54539879
+ohizs fvivi yliar sluci vcrzh laviy lorwd xsyld disso llz
+
+------------------------
+Epoch 213
+Train time 17.71791911125183
+Best key: njbwxlcvuhqamdrkegiopfsyzt
+Loss: 130000031.22369452
+vkbgc odbdb hable capjb djegk aldbh aveni mchai ibccv aag
+
+------------------------
+Epoch 214
+Train time 7.34295916557312
+Best key: njbwufcvxqhardmkeigolpytsz
+Loss: 130000037.62401633
+fjbgc mdbdb habli capkb dkigj aldbh afine ochae ebccf aag
+
+------------------------
+Epoch 215
+Train time 7.492231845855713
+Best key: abfgtizpjlxqmwovkrdcnhueys
+Loss: 130000043.13425665
+clitb rnini puiak buqvi nvktl uanip ucksw mbpuw wibbc uut
+
+------------------------
+Epoch 216
+Train time 7.278136968612671
+Best key: abfgtizpjlxqmwovkrdcnhueys
+Loss: 130000043.13425665
+clitb rnini puiak buqvi nvktl uanip ucksw mbpuw wibbc uut
+
+------------------------
+Epoch 217
+Train time 7.176684856414795
+Best key: njbwxcfvuaqhkdmrigelposytz
+Loss: 130000039.04272304
+gkbfc pdbdb habje camlb dlefk ajdbh ageni ochai ibccg aaf
+
+------------------------
+Epoch 218
+Train time 17.17544198036194
+Best key: abfgtizpjlxqmwovkrdcnhueys
+Loss: 130000043.13425665
+clitb rnini puiak buqvi nvktl uanip ucksw mbpuw wibbc uut
+
+------------------------
+Epoch 219
+Train time 7.621890068054199
+Best key: abfgtizpjlxqmwovkrdcnhueys
+Loss: 130000043.13425665
+clitb rnini puiak buqvi nvktl uanip ucksw mbpuw wibbc uut
+
+------------------------
+Epoch 220
+Train time 17.215541124343872
+Best key: abfgtizpjlxqmwovkrdcnhueys
+Loss: 130000043.13425665
+clitb rnini puiak buqvi nvktl uanip ucksw mbpuw wibbc uut
+
+------------------------
+Epoch 221
+Train time 7.605844974517822
+Best key: abfgtizpjlxqmwovkrdcnhueys
+Loss: 130000043.13425665
+clitb rnini puiak buqvi nvktl uanip ucksw mbpuw wibbc uut
+
+------------------------
+Epoch 222
+Train time 7.24573016166687
+Best key: abfgtizpjlxqmwovkrdcnhueys
+Loss: 130000043.13425665
+clitb rnini puiak buqvi nvktl uanip ucksw mbpuw wibbc uut
+
+------------------------
+Epoch 223
+Train time 7.6524879932403564
+Best key: abfgtizpjlxqmwovkrdcnhueys
+Loss: 130000043.13425665
+clitb rnini puiak buqvi nvktl uanip ucksw mbpuw wibbc uut
+
+------------------------
+Epoch 224
+Train time 7.397004127502441
+Best key: abfgtizpjlxqmwovkrdcnhueys
+Loss: 130000043.13425665
+clitb rnini puiak buqvi nvktl uanip ucksw mbpuw wibbc uut
+
+------------------------
+Epoch 225
+Train time 7.465171813964844
+Best key: abfgtizpjlxqmwovkrdcnhueys
+Loss: 130000043.13425665
+clitb rnini puiak buqvi nvktl uanip ucksw mbpuw wibbc uut
+
+------------------------
+Epoch 226
+Train time 7.246012926101685
+Best key: abipjklshmdxqvygonewfrzuct
+Loss: 130000032.64368442
+umeyb vtete nreal brfie tilym raten rulkx jbnrx xebbu rry
+
+------------------------
+Epoch 227
+Train time 7.252171993255615
+Best key: abfgtizpjlxqmwovkrdcnhueys
+Loss: 130000043.13425665
+clitb rnini puiak buqvi nvktl uanip ucksw mbpuw wibbc uut
+
+------------------------
+Epoch 228
+Train time 7.462392091751099
+Best key: abfgtizpjlxqmwovkrdcnhueys
+Loss: 130000043.13425665
+clitb rnini puiak buqvi nvktl uanip ucksw mbpuw wibbc uut
+
+------------------------
+Epoch 229
+Train time 7.248553037643433
+Best key: abipjklshmcxqvygonewfrzudt
+Loss: 130000030.75283405
+umekb vtete nreal brfie tilkm raten rulyx jbnrx xebbu rrk
+
+------------------------
+Epoch 230
+Train time 7.177184820175171
+Best key: abipjklshmcxqvygonewfrzudt
+Loss: 130000030.75283405
+umekb vtete nreal brfie tilkm raten rulyx jbnrx xebbu rrk
+
+------------------------
+Epoch 231
+Train time 2229.805675983429
+Best key: abipjklshmcxqvygonewfrzudt
+Loss: 130000030.75283405
+umekb vtete nreal brfie tilkm raten rulyx jbnrx xebbu rrk
+
+------------------------
+Epoch 232
+Train time 7.360054016113281
+Best key: abipjklshmcxqvygonewfrzudt
+Loss: 130000030.75283405
+umekb vtete nreal brfie tilkm raten rulyx jbnrx xebbu rrk
+
+------------------------
+Epoch 233
+Train time 17.015061140060425
+Best key: abipjklshmcxqvygonewfrzudt
+Loss: 130000030.75283405
+umekb vtete nreal brfie tilkm raten rulyx jbnrx xebbu rrk
+
+------------------------
+Epoch 234
+Train time 7.171313047409058
+Best key: abcvjsqntlewpfxuohkmdgzyri
+Loss: 130000043.09301367
+ngecb ylele dheao bhsre lrocg haled hnoup tbdhp pebbn hhc
+
+------------------------
+Epoch 235
+Train time 7.154597997665405
+Best key: abcvjsqntlewpgxuohkmdfzyri
+Loss: 130000043.09301367
+vgecb ylele dheao bhsre lrocg haled hvoup tbdhp pebbv hhc
+
+------------------------
+Epoch 236
+Train time 7.155627012252808
+Best key: abcvjsqntlewpgxuohkmdfzyri
+Loss: 130000043.09301367
+vgecb ylele dheao bhsre lrocg haled hvoup tbdhp pebbv hhc
+
+------------------------
+Epoch 237
+Train time 7.1850972175598145
+Best key: njbwxufvcqhadmrkiegplozyts
+Loss: 130000036.36340685
+gjbic odbdb hable capkb dkeij aldbh agemf nchaf fbccg aai
+
+------------------------
+Epoch 238
+Train time 1042.5964140892029
+Best key: abcvjslntqewpgxuohkmdfzyri
+Loss: 130000043.09301367
+vjecb ylele dheao bhsre lrocj haled hvoup tbdhp pebbv hhc
+
+------------------------
+Epoch 239
+Train time 16.917298078536987
+Best key: abcvjslntqewpgxuohkmdfzyri
+Loss: 130000043.09301367
+vjecb ylele dheao bhsre lrocj haled hvoup tbdhp pebbv hhc
+
+------------------------
+Epoch 240
+Train time 7.170046091079712
+Best key: abcvjslntqewpgxuohkmdfzyri
+Loss: 130000043.09301367
+vjecb ylele dheao bhsre lrocj haled hvoup tbdhp pebbv hhc
+
+------------------------
+Epoch 241
+Train time 7.144787788391113
+Best key: abcvjslntqewpgxuohkmdfzyri
+Loss: 130000043.09301367
+vjecb ylele dheao bhsre lrocj haled hvoup tbdhp pebbv hhc
+
+------------------------
+Epoch 242
+Train time 7.171006202697754
+Best key: abcvjslntqewpgxuohkmdfzyri
+Loss: 130000043.09301367
+vjecb ylele dheao bhsre lrocj haled hvoup tbdhp pebbv hhc
+
+------------------------
+Epoch 243
+Train time 7.149822950363159
+Best key: njbwxcfvuaqhidmkergplostyz
+Loss: 130000039.04272304
+gkbfc rdbdb habje caplb dlefk ajdbh ageni ochai ibccg aaf
+
+------------------------
+Epoch 244
+Train time 2951.57950091362
+Best key: abcvjslnxqewpgtuohkmdfzyri
+Loss: 130000043.09301367
+vjecb ylele dheai bhsre lricj haled hviup tbdhp pebbv hhc
+
+------------------------
+Epoch 245
+Train time 9.049692869186401
+Best key: abgtdrsmfwkqxjvcinzuhypole
+Loss: 120000052.52884045
+ilnpb fjnjn ornam brkun jumpl rajno rimet hbort tnbbi rrp
+
+------------------------
+Epoch 246
+Train time 7.477274179458618
+Best key: abgtdrsmfwkqxjvcinzuhypole
+Loss: 120000052.52884045
+ilnpb fjnjn ornam brkun jumpl rajno rimet hbort tnbbi rrp
+
+------------------------
+Epoch 247
+Train time 8.55111289024353
+Best key: abgtdrsmfwkqxjvcinzuhypole
+Loss: 120000052.52884045
+ilnpb fjnjn ornam brkun jumpl rajno rimet hbort tnbbi rrp
+
+------------------------
+Epoch 248
+Train time 8.150651931762695
+Best key: abgtdrsmfwkqxjvcinzuhypole
+Loss: 120000052.52884045
+ilnpb fjnjn ornam brkun jumpl rajno rimet hbort tnbbi rrp
+
+------------------------
+Epoch 249
+Train time 7.827124357223511
+Best key: abgtdrsmfwkqxjvcinzuhypole
+Loss: 120000052.52884045
+ilnpb fjnjn ornam brkun jumpl rajno rimet hbort tnbbi rrp
+
+------------------------
+Epoch 250
+Train time 8.1162691116333
+Best key: abgtdrsmfwkqxjvcinzuhypole
+Loss: 120000052.52884045
+ilnpb fjnjn ornam brkun jumpl rajno rimet hbort tnbbi rrp
+
+------------------------
+Epoch 251
+Train time 8.053226947784424
+Best key: abgtdrsmfwkqxjvcinzuhypole
+Loss: 120000052.52884045
+ilnpb fjnjn ornam brkun jumpl rajno rimet hbort tnbbi rrp
+
+------------------------
+Epoch 252
+Train time 7.405687093734741
+Best key: abfvuilpjyxdmwogcrqtnhzkes
+Loss: 130000039.5507377
+csiqb rnini duiak buxvi nvkqs uanid uckle mbdue eibbc uuq
+
+------------------------
+Epoch 253
+Train time 7.209947824478149
+Best key: abfvuilpjyxdmwogcrqtnhzkes
+Loss: 130000039.5507377
+csiqb rnini duiak buxvi nvkqs uanid uckle mbdue eibbc uuq
+
+------------------------
+Epoch 254
+Train time 7.340910911560059
+Best key: abfvuilpjyxdmwogcrqtnhzkes
+Loss: 130000039.5507377
+csiqb rnini duiak buxvi nvkqs uanid uckle mbdue eibbc uuq
+
+------------------------
+Epoch 255
+Train time 7.52328085899353
+Best key: abfvuilpjyxdmwogcrqtnhzkes
+Loss: 130000039.5507377
+csiqb rnini duiak buxvi nvkqs uanid uckle mbdue eibbc uuq
+
+------------------------
+Epoch 256
+Train time 8.266010284423828
+Best key: abfvuilpjyxdmwogcrqtnhzkes
+Loss: 130000039.5507377
+csiqb rnini duiak buxvi nvkqs uanid uckle mbdue eibbc uuq
+
+------------------------
+Epoch 257
+Train time 7.813086986541748
+Best key: abfvuilpjyxdmwogcrqtnhzkes
+Loss: 130000039.5507377
+csiqb rnini duiak buxvi nvkqs uanid uckle mbdue eibbc uuq
+
+------------------------
+Epoch 258
+Train time 7.624411106109619
+Best key: abeudvhpwykqrjogxcsznfltmi
+Loss: 140000022.1278442
+vlnrb minin funaq bukgn igqrl uainf uvqed ybfud dnbbv uur
+
+------------------------
+Epoch 259
+Train time 7.779910326004028
+Best key: abfvuilpjyxdmwogcrqtnhzkes
+Loss: 130000039.5507377
+csiqb rnini duiak buxvi nvkqs uanid uckle mbdue eibbc uuq
+
+------------------------
+Epoch 260
+Train time 7.995054721832275
+Best key: abfvuilpjyxdmwogcrqtnhzkes
+Loss: 130000039.5507377
+csiqb rnini duiak buxvi nvkqs uanid uckle mbdue eibbc uuq
+
+------------------------
+Epoch 261
+Train time 7.909818172454834
+Best key: abfvuilpjyxdmwogcrqtnhzkes
+Loss: 130000039.5507377
+csiqb rnini duiak buxvi nvkqs uanid uckle mbdue eibbc uuq
+
+------------------------
+Epoch 262
+Train time 7.402444124221802
+Best key: abfvuilpjyxdmwogcrqtnhzkes
+Loss: 130000039.5507377
+csiqb rnini duiak buxvi nvkqs uanid uckle mbdue eibbc uuq
+
+------------------------
+Epoch 263
+Train time 7.224255323410034
+Best key: abgsvwihtkyxpjecqnoulrdzfm
+Loss: 150000011.39171576
+yqnpb vfnfn ernal brjhn fhlpq rafne rylwt zbert tnbby rrp
+
+------------------------
+Epoch 264
+Train time 7.551367998123169
+Best key: abfvuilpjyxdmwogcrqtnhzkes
+Loss: 130000039.5507377
+csiqb rnini duiak buxvi nvkqs uanid uckle mbdue eibbc uuq
+
+------------------------
+Epoch 265
+Train time 7.498666048049927
+Best key: njbwxfiuvqhakdmregcpolztsy
+Loss: 150000008.3043511
+fjbsc pdbdb iable camkb dkesj aldbi afenh ociah hbccf aas
+
+------------------------
+Epoch 266
+Train time 7.722722053527832
+Best key: njbwxfcvuhsadkmrgeioplztqy
+Loss: 130000035.56489916
+fybgc pdbdb hable canjb djegy aldbh afemi ochai ibccf aag
+
+------------------------
+Epoch 267
+Train time 7.354218006134033
+Best key: njbwxufvcqhakmdrgieploztsy
+Loss: 130000035.9215741
+gjbic pdbdb hable camkb dkeij aldbh ageof nchaf fbccg aai
+
+------------------------
+Epoch 268
+Train time 7.225260972976685
+Best key: jnbwfcuxvaqhkmdrgiepoltysz
+Loss: 140000026.34019035
+ekafc pdada ibajh cbmla dlhfk bjdai behog ncibg gacce bbf
+
+------------------------
+Epoch 269
+Train time 7.302802085876465
+Best key: njbwxcfvuhqarmdkgeiplozsty
+Loss: 130000033.28251679
+gkbfc mdbdb hable capjb djefk aldbh ageoi nchai ibccg aaf
+
+------------------------
+Epoch 270
+Train time 7.382833003997803
+Best key: njbwxrcvfhqadmukeigoplyzst
+Loss: 140000024.185763
+ikbgc fdbdb hable capjb djegk aldbh aiemo nchao obcci aag
+
+------------------------
+Epoch 271
+Train time 7.2263078689575195
+Best key: abfcuilpjyxdmwogvrqknhztes
+Loss: 140000027.37309384
+csidb rnini quiak butvi nvkds uaniq uckle mbque eibbc uud
+
+------------------------
+Epoch 272
+Train time 7.181437730789185
+Best key: abfcuilpjyxdvwogmrqtnhzkes
+Loss: 130000036.71752436
+csidb rnini muiak buxvi nvkds uanim uckle qbmue eibbc uud
+
+------------------------
+Epoch 273
+Train time 7.192638874053955
+Best key: abfcuilpjyxdvwogmrqtnhzkes
+Loss: 130000036.71752436
+csidb rnini muiak buxvi nvkds uanim uckle qbmue eibbc uud
+
+------------------------
+Epoch 274
+Train time 7.195430278778076
+Best key: abfcuilpjyxdvwogmrqtnhzkes
+Loss: 130000036.71752436
+csidb rnini muiak buxvi nvkds uanim uckle qbmue eibbc uud
+
+------------------------
+Epoch 275
+Train time 7.192740201950073
+Best key: njbwucfvxhqardkmgeilopztys
+Loss: 130000033.68418682
+gkbfc mdbdb habli caojb djifk aldbh agine pchae ebccg aaf
+
+------------------------
+Epoch 276
+Train time 7.193664073944092
+Best key: abfcuilpjyxdvwozmrqtnhgkes
+Loss: 130000036.71752436
+csidb rnini muiak buxvi nvkds uanim uckle qbmue eibbc uud
+
+------------------------
+Epoch 277
+Train time 7.206013917922974
+Best key: abfcuilpjyxdvwozmrqtnhgkes
+Loss: 130000036.71752436
+csidb rnini muiak buxvi nvkds uanim uckle qbmue eibbc uud
+
+------------------------
+Epoch 278
+Train time 7.196579217910767
+Best key: abfcuilpjyxdvwozmrqtnhgkes
+Loss: 130000036.71752436
+csidb rnini muiak buxvi nvkds uanim uckle qbmue eibbc uud
+
+------------------------
+Epoch 279
+Train time 7.188093900680542
+Best key: njbwxcfvuqhakdrmegiplozyts
+Loss: 130000032.55427828
+gjbfc odbdb hable camkb dkefj aldbh ageni pchai ibccg aaf
+
+------------------------
+Epoch 280
+Train time 7.206756114959717
+Best key: abfcuilpjyxdvwozmrqtnhgkes
+Loss: 130000036.71752436
+csidb rnini muiak buxvi nvkds uanim uckle qbmue eibbc uud
+
+------------------------
+Epoch 281
+Train time 7.188981056213379
+Best key: njbwxfcvuqhamlkrigedopzsyt
+Loss: 130000036.0757248
+fjbgc pdbdb hable caokb dkegj aldbh afeti mchai ibccf aag
+
+------------------------
+Epoch 282
+Train time 7.179585218429565
+Best key: abgyjiodrqtfxzmksvhulwnepc
+Loss: 140000028.0249981
+ljezb iveve rweam bwpse vsmzj waver wlmht obrwt tebbl wwz
+
+------------------------
+Epoch 283
+Train time 7.199636936187744
+Best key: njbwxfcvuqhadrmkieglposytz
+Loss: 130000035.56489916
+fjbgc ndbdb hable capkb dkegj aldbh afemi ochai ibccf aag
+
+------------------------
+Epoch 284
+Train time 7.190927982330322
+Best key: abfcuilpjyxdvwozmrqtnhgkes
+Loss: 130000036.71752436
+csidb rnini muiak buxvi nvkds uanim uckle qbmue eibbc uud
+
+------------------------
+Epoch 285
+Train time 7.197574853897095
+Best key: abfcuilpjyxdvwozmrqtnhgkes
+Loss: 130000036.71752436
+csidb rnini muiak buxvi nvkds uanim uckle qbmue eibbc uud
+
+------------------------
+Epoch 286
+Train time 7.190914869308472
+Best key: njbwucfvxqhakdrmgielpoztys
+Loss: 130000033.68418682
+gjbfc odbdb habli camkb dkifj aldbh agine pchae ebccg aaf
+
+------------------------
+Epoch 287
+Train time 7.187031030654907
+Best key: apfcuilbjyxdvwozmrqtnhgkes
+Loss: 130000036.71752436
+csidh rnini muiak huxvi nvkds uanim uckle qhmue eihhc uud
+
+------------------------
+Epoch 288
+Train time 7.174761772155762
+Best key: abdlnczfqmkjseiotvgwhpuyxr
+Loss: 140000026.0690376
+hilfb ztltl relay bekul tuyfi eatlr ehycw jbrew wlbbh eef
+
+------------------------
+Epoch 289
+Train time 7.190870046615601
+Best key: jnbwfcuvxqahkdrmgielpotsyz
+Loss: 140000024.88935745
+ejafc odada hbaki cbmla dlifj bkdah being pchbg gacce bbf
+
+------------------------
+Epoch 290
+Train time 7.187740802764893
+Best key: abhodcrsjpexwvkygqintumlzf
+Loss: 130000037.86802758
+zrifb gmimi ntial btoci mclfr tamin tzlev wbntv vibbz ttf
+
+------------------------
+Epoch 291
+Train time 7.19868803024292
+Best key: njbwucfvxsqakdmrgielpoztyh
+Loss: 120000046.26729578
+gkbfc pdbdb habli camzb dzifk aldbh agine ochae ebccg aaf
+
+------------------------
+Epoch 292
+Train time 7.187105894088745
+Best key: athodcrsjpexwvkygqinbumlzf
+Loss: 130000037.86802758
+zrifu gmimi ntial utoci mclfr tamin tzlev wuntv viuuz ttf
+
+------------------------
+Epoch 293
+Train time 7.188200950622559
+Best key: njbwxucifqhardmkevgpolzsyt
+Loss: 140000018.0193053
+ijbgc mdbdb rable capkb dkegj aldbr aienf ocraf fbcci aag
+
+------------------------
+Epoch 294
+Train time 7.1835410594940186
+Best key: njbwxcfvuaihrdmkgeqplotzys
+Loss: 130000039.04272304
+gsbfc mdbdb habje caplb dlefs ajdbh ageni ochai ibccg aaf
+
+------------------------
+Epoch 295
+Train time 7.188819885253906
+Best key: njbwxcfvuahqrdmkiegoplytsz
+Loss: 130000039.04272304
+glbfc mdbdb habje capkb dkefl ajdbh ageni ochai ibccg aaf
+
+------------------------
+Epoch 296
+Train time 7.1848859786987305
+Best key: abgwkymlxqisphjzctnofdevur
+Loss: 140000027.5096373
+ujoqb zdodo xsoai bseno dniqj sadox suivy gbxsy yobbu ssq
+
+------------------------
+Epoch 297
+Train time 7.1869120597839355
+Best key: njbwucfvxqhamdkregioplyzts
+Loss: 130000033.68418682
+gjbfc pdbdb habli caokb dkifj aldbh agine mchae ebccg aaf
+
+------------------------
+Epoch 298
+Train time 7.186050653457642
+Best key: njbwxufvchqadrmkiegolptzsy
+Loss: 130000037.61616983
+gkbic ndbdb hable capjb djeik aldbh agemf ochaf fbccg aai
+
+------------------------
+Epoch 299
+Train time 7.192580938339233
+Best key: njbwxcfvuaqhdkmregiolpsytz
+Loss: 140000028.88244832
+gkbfc pdbdb habje canlb dlefk ajdbh agemi ochai ibccg aaf
+
+------------------------
+Epoch 300
+Train time 7.1980133056640625
+Best key: njbwcufvxqhadrmkgeioplystz
+Loss: 140000030.4045442
+gjbec ndbdb habli capkb dkiej aldbh agimf ochaf fbccg aae
+
+------------------------
+Epoch 301
+Train time 7.201086044311523
+Best key: njbwucfvxqhadmrkiegolpytzs
+Loss: 130000039.78898004
+gjbfc odbdb habli capkb dkifj aldbh agime nchae ebccg aaf
+
+------------------------
+Epoch 302
+Train time 7.1918299198150635
+Best key: njbwucfvxhqamdkreigoplzyst
+Loss: 130000033.68418682
+gkbfc pdbdb habli caojb djifk aldbh agine mchae ebccg aaf
+
+------------------------
+Epoch 303
+Train time 7.185366868972778
+Best key: njbwxfcvuqharmdkeigolpztsy
+Loss: 140000022.64531797
+fjbgc mdbdb hable capkb dkegj aldbh afeoi nchai ibccf aag
+
+------------------------
+Epoch 304
+Train time 7.2421629428863525
+Best key: abhdgsfnwykvzjcoexiturpqlm
+Loss: 130000033.99606599
+gxnob vinin lhnar bhkcn icrox hainl hgrdu zblhu unbbg hho
+
+------------------------
+Epoch 305
+Train time 7.20393705368042
+Best key: njbwxcfvuhqarmdkigeplosytz
+Loss: 130000033.28251679
+gkbfc mdbdb hable capjb djefk aldbh ageoi nchai ibccg aaf
+
+------------------------
+Epoch 306
+Train time 7.380251169204712
+Best key: abhdgsfnwykvzjcoexiturpqlm
+Loss: 130000033.99606599
+gxnob vinin lhnar bhkcn icrox hainl hgrdu zblhu unbbg hho
+
+------------------------
+Epoch 307
+Train time 7.2105553150177
+Best key: abhdgsfnwykvzjcoexiturpqlm
+Loss: 130000033.99606599
+gxnob vinin lhnar bhkcn icrox hainl hgrdu zblhu unbbg hho
+
+------------------------
+Epoch 308
+Train time 7.433604955673218
+Best key: abhdgsfnwykvzjcoexiturpqlm
+Loss: 130000033.99606599
+gxnob vinin lhnar bhkcn icrox hainl hgrdu zblhu unbbg hho
+
+------------------------
+Epoch 309
+Train time 7.187821865081787
+Best key: abhdgsfnwykvzjcoexiturpqlm
+Loss: 130000033.99606599
+gxnob vinin lhnar bhkcn icrox hainl hgrdu zblhu unbbg hho
+
+------------------------
+Epoch 310
+Train time 7.2072038650512695
+Best key: abhdgsfnwykvzjcoexiturpqlm
+Loss: 130000033.99606599
+gxnob vinin lhnar bhkcn icrox hainl hgrdu zblhu unbbg hho
+
+------------------------
+Epoch 311
+Train time 7.193443775177002
+Best key: abvqjpexrlmyhokgdnwuzfcits
+Loss: 140000022.45111722
+vdewb isese creah brome smhwd rasec rvhqt kbcrt tebbv rrw
+
+------------------------
+Epoch 312
+Train time 7.190471887588501
+Best key: abhdgsfnwykvzjcoexiturpqlm
+Loss: 130000033.99606599
+gxnob vinin lhnar bhkcn icrox hainl hgrdu zblhu unbbg hho
+
+------------------------
+Epoch 313
+Train time 7.202145099639893
+Best key: abhdgsfnwykvzjcoexiturpqlm
+Loss: 130000033.99606599
+gxnob vinin lhnar bhkcn icrox hainl hgrdu zblhu unbbg hho
+
+------------------------
+Epoch 314
+Train time 7.211411952972412
+Best key: abhdgsfnwykvzjcoexiturpqlm
+Loss: 130000033.99606599
+gxnob vinin lhnar bhkcn icrox hainl hgrdu zblhu unbbg hho
+
+------------------------
+Epoch 315
+Train time 7.207823038101196
+Best key: abhdgsfnwykvzjcoexiturpqlm
+Loss: 130000033.99606599
+gxnob vinin lhnar bhkcn icrox hainl hgrdu zblhu unbbg hho
+
+------------------------
+Epoch 316
+Train time 7.22150993347168
+Best key: njbwxcfvuqhardkmigeplozsyt
+Loss: 130000032.55427828
+gjbfc mdbdb hable caokb dkefj aldbh ageni pchai ibccg aaf
+
+------------------------
+Epoch 317
+Train time 7.390392780303955
+Best key: abhdgsfnwykvzjcoexiturpqlm
+Loss: 130000033.99606599
+gxnob vinin lhnar bhkcn icrox hainl hgrdu zblhu unbbg hho
+
+------------------------
+Epoch 318
+Train time 9.133738994598389
+Best key: njbwxcfvuqhakrdmgeiolptysz
+Loss: 140000021.9521708
+gjbfc ndbdb hable camkb dkefj aldbh ageoi pchai ibccg aaf
+
+------------------------
+Epoch 319
+Train time 7.195430040359497
+Best key: abhdgsfnwykvzjcoexiturpqlm
+Loss: 130000033.99606599
+gxnob vinin lhnar bhkcn icrox hainl hgrdu zblhu unbbg hho
+
+------------------------
+Epoch 320
+Train time 7.158491849899292
+Best key: njbwxcfuvhqakmdreigpoltszy
+Loss: 140000021.44707584
+gkbfc pdbdb iable camjb djefk aldbi ageoh nciah hbccg aaf
+
+------------------------
+Epoch 321
+Train time 7.636237859725952
+Best key: abhdgsfnwtkvzjcoexiyurpqlm
+Loss: 130000033.99606599
+gxnob vinin lhnar bhkcn icrox hainl hgrdu zblhu unbbg hho
+
+------------------------
+Epoch 322
+Train time 7.409497022628784
+Best key: abhdgsfnwtkvzjcoexiyurpqlm
+Loss: 130000033.99606599
+gxnob vinin lhnar bhkcn icrox hainl hgrdu zblhu unbbg hho
+
+------------------------
+Epoch 323
+Train time 7.171611309051514
+Best key: abhdgsfnwtkvzjcoexiyurpqlm
+Loss: 130000033.99606599
+gxnob vinin lhnar bhkcn icrox hainl hgrdu zblhu unbbg hho
+
+------------------------
+Epoch 324
+Train time 7.148680210113525
+Best key: abhdgsfnwtkvzjcoexiyurpqlm
+Loss: 130000033.99606599
+gxnob vinin lhnar bhkcn icrox hainl hgrdu zblhu unbbg hho
+
+------------------------
+Epoch 325
+Train time 7.18464469909668
+Best key: abhdgsfnwtkvzjcoexiyurpqlm
+Loss: 130000033.99606599
+gxnob vinin lhnar bhkcn icrox hainl hgrdu zblhu unbbg hho
+
+------------------------
+Epoch 326
+Train time 7.381049871444702
+Best key: abfelmtuvygxqndipzwjhcosrk
+Loss: 130000031.83587939
+cmtvb ystst intal bnzut sulvm nasti ncloh fbinh htbbc nnv
+
+------------------------
+Epoch 327
+Train time 7.145761728286743
+Best key: abfelmtuvygxqndipzwjhcosrk
+Loss: 130000031.83587939
+cmtvb ystst intal bnzut sulvm nasti ncloh fbinh htbbc nnv
+
+------------------------
+Epoch 328
+Train time 7.142533779144287
+Best key: abfelmtuvygxqndipzwjhcosrk
+Loss: 130000031.83587939
+cmtvb ystst intal bnzut sulvm nasti ncloh fbinh htbbc nnv
+
+------------------------
+Epoch 329
+Train time 7.13460111618042
+Best key: abfelmtuvygxqndipzwjhcosrk
+Loss: 130000031.83587939
+cmtvb ystst intal bnzut sulvm nasti ncloh fbinh htbbc nnv
+
+------------------------
+Epoch 330
+Train time 7.650249004364014
+Best key: abfelmtuvygxqndipzwjhcosrk
+Loss: 130000031.83587939
+cmtvb ystst intal bnzut sulvm nasti ncloh fbinh htbbc nnv
+
+------------------------
+Epoch 331
+Train time 7.158089876174927
+Best key: abhvugeijfsxwnldopkcmqytrz
+Loss: 130000041.16017562
+jvitb ymimi dnial bnsci mcltv namid njlpe ubdne eibbj nnt
+
+------------------------
+Epoch 332
+Train time 7.145403861999512
+Best key: abhvugeijfsxwnldopkcmqytrz
+Loss: 130000041.16017562
+jvitb ymimi dnial bnsci mcltv namid njlpe ubdne eibbj nnt
+
+------------------------
+Epoch 333
+Train time 7.152853727340698
+Best key: abhvugeijfsxwnldopkcmqytrz
+Loss: 130000041.16017562
+jvitb ymimi dnial bnsci mcltv namid njlpe ubdne eibbj nnt
+
+------------------------
+Epoch 334
+Train time 7.207413911819458
+Best key: lbfpriczjtgeknausdhyxwvmoq
+Loss: 130000040.62337449
+czigb evivi wniou bnmsi vsugz noviw ncurp xbwnp pibbc nng
+
+------------------------
+Epoch 335
+Train time 7.157238006591797
+Best key: abiwjlotrgzmsdkvqncuyphfxe
+Loss: 130000035.22747679
+xqesb idede preay browe dwysq radep rxynt lbprt tebbx rrs
+
+------------------------
+Epoch 336
+Train time 7.153573989868164
+Best key: abiwjlotrgzmsdkvqncuyphfxe
+Loss: 130000035.22747679
+xqesb idede preay browe dwysq radep rxynt lbprt tebbx rrs
+
+------------------------
+Epoch 337
+Train time 7.148885011672974
+Best key: abiwjlotrgzmsdkvqncuyphfxe
+Loss: 130000035.22747679
+xqesb idede preay browe dwysq radep rxynt lbprt tebbx rrs
+
+------------------------
+Epoch 338
+Train time 7.15240216255188
+Best key: abiwjlotrgzmsdkvqncuyphfxe
+Loss: 130000035.22747679
+xqesb idede preay browe dwysq radep rxynt lbprt tebbx rrs
+
+------------------------
+Epoch 339
+Train time 7.144268035888672
+Best key: abiwjlotrgzmsdkvqncuyphfxe
+Loss: 130000035.22747679
+xqesb idede preay browe dwysq radep rxynt lbprt tebbx rrs
+
+------------------------
+Epoch 340
+Train time 7.138822078704834
+Best key: abiwjlotrgzmsdkvqncuyphfxe
+Loss: 130000035.22747679
+xqesb idede preay browe dwysq radep rxynt lbprt tebbx rrs
+
+------------------------
+Epoch 341
+Train time 7.160053968429565
+Best key: abylzkvtwqshpjdoexinurfgcm
+Loss: 140000023.457813
+wjnyb vinin gtnar btfln ilryj taing twrou zbgtu unbbw tty
+
+------------------------
+Epoch 342
+Train time 7.1477930545806885
+Best key: abiwjlotrgzmsdkvqncuyphfxe
+Loss: 130000035.22747679
+xqesb idede preay browe dwysq radep rxynt lbprt tebbx rrs
+
+------------------------
+Epoch 343
+Train time 7.145488739013672
+Best key: njbwxufvchqadmkrgeiolptszy
+Loss: 130000036.36340685
+gkbic pdbdb hable caojb djeik aldbh agemf nchaf fbccg aai
+
+------------------------
+Epoch 344
+Train time 7.141535997390747
+Best key: abigdyumjokestvflnqwhzrpcx
+Loss: 120000043.86766055
+psiyb wtiti oriaz brkui tuzys ratio rpzeg hborg gibbp rry
+
+------------------------
+Epoch 345
+Train time 7.151721954345703
+Best key: abigdyumjokestvflnqwhzrpcx
+Loss: 120000043.86766055
+psiyb wtiti oriaz brkui tuzys ratio rpzeg hborg gibbp rry
+
+------------------------
+Epoch 346
+Train time 7.1662561893463135
+Best key: abigdyumjokestvflnqwhzrpcx
+Loss: 120000043.86766055
+psiyb wtiti oriaz brkui tuzys ratio rpzeg hborg gibbp rry
+
+------------------------
+Epoch 347
+Train time 7.1493940353393555
+Best key: abigdyumjokestvflnqwhzrpcx
+Loss: 120000043.86766055
+psiyb wtiti oriaz brkui tuzys ratio rpzeg hborg gibbp rry
+
+------------------------
+Epoch 348
+Train time 7.148928165435791
+Best key: abigdyumjokestvflnqwhzrpcx
+Loss: 120000043.86766055
+psiyb wtiti oriaz brkui tuzys ratio rpzeg hborg gibbp rry
+
+------------------------
+Epoch 349
+Train time 7.150608062744141
+Best key: abigdyumjokestvflnqwhzrpcx
+Loss: 120000043.86766055
+psiyb wtiti oriaz brkui tuzys ratio rpzeg hborg gibbp rry
+
+------------------------
+Epoch 350
+Train time 7.159419059753418
+Best key: abigdyumjokestvflnqwhzrpcx
+Loss: 120000043.86766055
+psiyb wtiti oriaz brkui tuzys ratio rpzeg hborg gibbp rry
+
+------------------------
+Epoch 351
+Train time 7.146015882492065
+Best key: abigdyumjokestvflnqwhzrpcx
+Loss: 120000043.86766055
+psiyb wtiti oriaz brkui tuzys ratio rpzeg hborg gibbp rry
+
+------------------------
+Epoch 352
+Train time 7.158849000930786
+Best key: abigdyumjokestvflnqwhzrpcx
+Loss: 120000043.86766055
+psiyb wtiti oriaz brkui tuzys ratio rpzeg hborg gibbp rry
+
+------------------------
+Epoch 353
+Train time 7.137959718704224
+Best key: abigdyumjokestvflnqwhzrpcx
+Loss: 120000043.86766055
+psiyb wtiti oriaz brkui tuzys ratio rpzeg hborg gibbp rry
+
+------------------------
+Epoch 354
+Train time 7.148102045059204
+Best key: abigdyumjokestvflnqwhzrpcx
+Loss: 120000043.86766055
+psiyb wtiti oriaz brkui tuzys ratio rpzeg hborg gibbp rry
+
+------------------------
+Epoch 355
+Train time 7.142226934432983
+Best key: abigdyumjokestvflnqwhzrpcx
+Loss: 120000043.86766055
+psiyb wtiti oriaz brkui tuzys ratio rpzeg hborg gibbp rry
+
+------------------------
+Epoch 356
+Train time 7.602254152297974
+Best key: abigdyumjokestvflnqwhzrpcx
+Loss: 120000043.86766055
+psiyb wtiti oriaz brkui tuzys ratio rpzeg hborg gibbp rry
+
+------------------------
+Epoch 357
+Train time 7.731075048446655
+Best key: abigdyumjokestvflnqwhzrpcx
+Loss: 120000043.86766055
+psiyb wtiti oriaz brkui tuzys ratio rpzeg hborg gibbp rry
+
+------------------------
+Epoch 358
+Train time 7.193071126937866
+Best key: abigdyumjokestvflnqwhzrpcx
+Loss: 120000043.86766055
+psiyb wtiti oriaz brkui tuzys ratio rpzeg hborg gibbp rry
+
+------------------------
+Epoch 359
+Train time 7.224247694015503
+Best key: abigdyumjokestvflnqwhzrpcx
+Loss: 120000043.86766055
+psiyb wtiti oriaz brkui tuzys ratio rpzeg hborg gibbp rry
+
+------------------------
+Epoch 360
+Train time 7.162496566772461
+Best key: abigdyumjokestvflnqwhzrpcx
+Loss: 120000043.86766055
+psiyb wtiti oriaz brkui tuzys ratio rpzeg hborg gibbp rry
+
+------------------------
+Epoch 361
+Train time 12.738326072692871
+Best key: abigdyumjokestvflnqwhzrpcx
+Loss: 120000043.86766055
+psiyb wtiti oriaz brkui tuzys ratio rpzeg hborg gibbp rry
+
+------------------------
+Epoch 362
+Train time 12.35690188407898
+Best key: abigdyumjokestvflnqwhzrpcx
+Loss: 120000043.86766055
+psiyb wtiti oriaz brkui tuzys ratio rpzeg hborg gibbp rry
+
+------------------------
+Epoch 363
+Train time 10.168781042098999
+Best key: abfevlhuwimxdnktgszjrpyoqc
+Loss: 130000035.92168273
+cytzb uitit ental bnogt iglzy naite nclmh kbenh htbbc nnz
+
+------------------------
+Epoch 364
+Train time 9.778984785079956
+Best key: abigdycmjokestvflnqwhzrpux
+Loss: 130000030.59140441
+psigb wtiti oriaz brkui tuzgs ratio rpzey hbory yibbp rrg
+
+------------------------
+Epoch 365
+Train time 7.833861827850342
+Best key: abigdycmjokestvflnqwhzrpux
+Loss: 130000030.59140441
+psigb wtiti oriaz brkui tuzgs ratio rpzey hbory yibbp rrg
+
+------------------------
+Epoch 366
+Train time 8.648904800415039
+Best key: abigdycmjokestvflnqwhzrpux
+Loss: 130000030.59140441
+psigb wtiti oriaz brkui tuzgs ratio rpzey hbory yibbp rrg
+
+------------------------
+Epoch 367
+Train time 9.655147075653076
+Best key: abigdycmjokestvflnqwhzrpux
+Loss: 130000030.59140441
+psigb wtiti oriaz brkui tuzgs ratio rpzey hbory yibbp rrg
+
+------------------------
+Epoch 368
+Train time 7.973954200744629
+Best key: abigdycmjokestvflnqwhzrpux
+Loss: 130000030.59140441
+psigb wtiti oriaz brkui tuzgs ratio rpzey hbory yibbp rrg
+
+------------------------
+Epoch 369
+Train time 7.710098028182983
+Best key: abigdycmjokestvflnqwhzrpux
+Loss: 130000030.59140441
+psigb wtiti oriaz brkui tuzgs ratio rpzey hbory yibbp rrg
+
+------------------------
+Epoch 370
+Train time 7.697572946548462
+Best key: abigdycmjokestvflnqwhzrpux
+Loss: 130000030.59140441
+psigb wtiti oriaz brkui tuzgs ratio rpzey hbory yibbp rrg
+
+------------------------
+Epoch 371
+Train time 8.27096676826477
+Best key: abigdycmjokestvflnqwhzrpux
+Loss: 130000030.59140441
+psigb wtiti oriaz brkui tuzgs ratio rpzey hbory yibbp rrg
+
+------------------------
+Epoch 372
+Train time 7.744527816772461
+Best key: abcnhylzwtukqjsmpogvdeirxf
+Loss: 140000023.49926472
+zmncb xinin tdnay bdlen ieycm daint dzyuk pbtdk knbbz ddc
+
+------------------------
+Epoch 373
+Train time 7.719397068023682
+Best key: abcjhfrgwiqymxpnzovksdetul
+Loss: 140000021.660369
+fkdcb gidid spdan bpted ienck paids pfnvy mbspy ydbbf ppc
+
+------------------------
+Epoch 374
+Train time 7.867830038070679
+Best key: abcjhfrgwiqymxpnzovksdetul
+Loss: 140000021.660369
+fkdcb gidid spdan bpted ienck paids pfnvy mbspy ydbbf ppc
+
+------------------------
+Epoch 375
+Train time 7.858994960784912
+Best key: abcjhfrgwiqymxpnzovksdetul
+Loss: 140000021.660369
+fkdcb gidid spdan bpted ienck paids pfnvy mbspy ydbbf ppc
+
+------------------------
+Epoch 376
+Train time 7.656583786010742
+Best key: njbwxcfvuhqadkmregilopszty
+Loss: 130000034.9771125
+gkbfc pdbdb hable canjb djefk aldbh agemi ochai ibccg aaf
+
+------------------------
+Epoch 377
+Train time 7.950906991958618
+Best key: abcnhylzwtukqjxmpogvdeirsf
+Loss: 140000023.49926472
+zmncb xinin tdnao bdlen ieocm daint dzouk pbtdk knbbz ddc
+
+------------------------
+Epoch 378
+Train time 7.868484973907471
+Best key: njbwucfvxeqadmrkhigloptysz
+Loss: 130000039.78898004
+gkbfc odbdb habli capqb dqifk aldbh agime nchae ebccg aaf
+
+------------------------
+Epoch 379
+Train time 7.811475992202759
+Best key: njbwxcfvuahqkdmreigpolstzy
+Loss: 130000039.04272304
+glbfc pdbdb habje camkb dkefl ajdbh ageni ochai ibccg aaf
+
+------------------------
+Epoch 380
+Train time 7.461660861968994
+Best key: njbwxcfvuqhakmrdegioplystz
+Loss: 140000022.64531797
+gjbfc odbdb hable camkb dkefj aldbh agepi nchai ibccg aaf
+
+------------------------
+Epoch 381
+Train time 7.504112005233765
+Best key: njbwxcfzvqharmdkeigpolsytu
+Loss: 140000021.44707584
+gjbfc mdbdb iable capkb dkefj aldbi ageoz nciaz zbccg aaf
+
+------------------------
+Epoch 382
+Train time 7.20424485206604
+Best key: abeycmqnwgivxjskuofhtrlzpd
+Loss: 140000022.79925138
+sgneb vinin lhnam bhptn itmeg hainl hsmzq fblhq qnbbs hhe
+
+------------------------
+Epoch 383
+Train time 7.1960108280181885
+Best key: njbwxcfvuhqadkrmeigzopylst
+Loss: 140000022.39400354
+gkbfc odbdb hable canjb djefk aldbh agemi pchai ibccg aaf
+
+------------------------
+Epoch 384
+Train time 7.19007682800293
+Best key: njbwucfvxhqadkmreigpolytzs
+Loss: 130000041.04174301
+gkbfc pdbdb habli canjb djifk aldbh agime ochae ebccg aaf
+
+------------------------
+Epoch 385
+Train time 7.188178062438965
+Best key: njbwcufvxhqakdmrgieoplstyz
+Loss: 130000039.09583287
+gkbec pdbdb habli camjb djiek aldbh aginf ochaf fbccg aae
+
+------------------------
+Epoch 386
+Train time 7.197202920913696
+Best key: abdufmcqjlhswzopenixtryvgk
+Loss: 130000041.6013588
+ehigb vmimi xriat brzki mktgh ramix retcd fbxrd dibbe rrg
+
+------------------------
+Epoch 387
+Train time 7.204116106033325
+Best key: abdufmcqjlhswzopenixtryvgk
+Loss: 130000041.6013588
+ehigb vmimi xriat brzki mktgh ramix retcd fbxrd dibbe rrg
+
+------------------------
+Epoch 388
+Train time 7.636681795120239
+Best key: njbwucfvxqhamdkrgieoplsyzt
+Loss: 130000033.68418682
+gjbfc pdbdb habli caokb dkifj aldbh agine mchae ebccg aaf
+
+------------------------
+Epoch 389
+Train time 7.2377331256866455
+Best key: abhijglmrfuncwvqystxepkzdo
+Loss: 130000040.66704956
+jpemb inene oleat blwce nctmp laneo ljtyk hbolk kebbj llm
+
+------------------------
+Epoch 390
+Train time 7.233753204345703
+Best key: abhijglmrfuncwvqystxepkzdo
+Loss: 130000040.66704956
+jpemb inene oleat blwce nctmp laneo ljtyk hbolk kebbj llm
+
+------------------------
+Epoch 391
+Train time 7.362666130065918
+Best key: abhijglmrfuncwvqystxepkzdo
+Loss: 130000040.66704956
+jpemb inene oleat blwce nctmp laneo ljtyk hbolk kebbj llm
+
+------------------------
+Epoch 392
+Train time 7.638796091079712
+Best key: abdhfuwzjrotcxsiqvgnklpemy
+Loss: 130000036.32139058
+eqimb jgigi rtian btudi gdnmq tagir tencf ybrtf fibbe ttm
+
+------------------------
+Epoch 393
+Train time 7.238878965377808
+Best key: abdhfuwzjrotcxsiqvgnklpemy
+Loss: 130000036.32139058
+eqimb jgigi rtian btudi gdnmq tagir tencf ybrtf fibbe ttm
+
+------------------------
+Epoch 394
+Train time 7.226922035217285
+Best key: abdhfuwzjrotcxsiqvgnklpemy
+Loss: 130000036.32139058
+eqimb jgigi rtian btudi gdnmq tagir tencf ybrtf fibbe ttm
+
+------------------------
+Epoch 395
+Train time 7.253394842147827
+Best key: abdhfuwzjrotcxsiqvgnklpemy
+Loss: 130000036.32139058
+eqimb jgigi rtian btudi gdnmq tagir tencf ybrtf fibbe ttm
+
+------------------------
+Epoch 396
+Train time 7.227492809295654
+Best key: abdhfuwzjrotcxsiqvgnklpemy
+Loss: 130000036.32139058
+eqimb jgigi rtian btudi gdnmq tagir tencf ybrtf fibbe ttm
+
+------------------------
+Epoch 397
+Train time 7.2262749671936035
+Best key: abdhfuwzjrotcxsiqvgnklpemy
+Loss: 130000036.32139058
+eqimb jgigi rtian btudi gdnmq tagir tencf ybrtf fibbe ttm
+
+------------------------
+Epoch 398
+Train time 7.221776008605957
+Best key: abdhfuwzjrotcxsiqvgnklpemy
+Loss: 130000036.32139058
+eqimb jgigi rtian btudi gdnmq tagir tencf ybrtf fibbe ttm
+
+------------------------
+Epoch 399
+Train time 7.8330769538879395
+Best key: abdhfuwzjrotcxsiqvgnklpemy
+Loss: 130000036.32139058
+eqimb jgigi rtian btudi gdnmq tagir tencf ybrtf fibbe ttm
+
+------------------------
+Epoch 400
+Train time 7.329678773880005
+Best key: abdhfuwzjrotcxsiqvgnklpemy
+Loss: 130000036.32139058
+eqimb jgigi rtian btudi gdnmq tagir tencf ybrtf fibbe ttm
+
+------------------------
+Epoch 401
+Train time 7.222586154937744
+Best key: abdhfuwzjrotcxsiqvgnklpemy
+Loss: 130000036.32139058
+eqimb jgigi rtian btudi gdnmq tagir tencf ybrtf fibbe ttm
+
+------------------------
+Epoch 402
+Train time 7.4758641719818115
+Best key: njbwxcfvuqhadkmreiglpozsty
+Loss: 130000034.9771125
+gjbfc pdbdb hable cankb dkefj aldbh agemi ochai ibccg aaf
+
+------------------------
+Epoch 403
+Train time 7.9644529819488525
+Best key: abdhfuwzjrotcxsiqvgnklpemy
+Loss: 130000036.32139058
+eqimb jgigi rtian btudi gdnmq tagir tencf ybrtf fibbe ttm
+
+------------------------
+Epoch 404
+Train time 7.448547840118408
+Best key: jnbpfcuxvaqhkmdrgeiwolzsyt
+Loss: 130000038.51783422
+ekafc ptata ibajh cbmla tlhfk bjtai behog ncibg gacce bbf
+
+------------------------
+Epoch 405
+Train time 7.780146837234497
+Best key: njbwucfvxhqardkmgeiplotysz
+Loss: 130000033.68418682
+gkbfc mdbdb habli caojb djifk aldbh agine pchae ebccg aaf
+
+------------------------
+Epoch 406
+Train time 8.104646921157837
+Best key: abdhfuwzjrotcxsiqvgnklpemy
+Loss: 130000036.32139058
+eqimb jgigi rtian btudi gdnmq tagir tencf ybrtf fibbe ttm
+
+------------------------
+Epoch 407
+Train time 8.357351779937744
+Best key: abdhfuwzjrptcxsiqvgnkloemy
+Loss: 130000036.32139058
+eqimb jgigi rtian btudi gdnmq tagir tencf ybrtf fibbe ttm
+
+------------------------
+Epoch 408
+Train time 7.333600044250488
+Best key: abdhfuwzjrotcxsiqvgnklpemy
+Loss: 130000036.32139058
+eqimb jgigi rtian btudi gdnmq tagir tencf ybrtf fibbe ttm
+
+------------------------
+Epoch 409
+Train time 7.524376153945923
+Best key: abdhfuwzjrotcxsiqvgnklpemy
+Loss: 130000036.32139058
+eqimb jgigi rtian btudi gdnmq tagir tencf ybrtf fibbe ttm
+
+------------------------
+Epoch 410
+Train time 7.409470081329346
+Best key: njbwucfvxqhaodmkieglprszyt
+Loss: 120000046.26729578
+gjbfc vdbdb habli capkb dkifj aldbh agine ochae ebccg aaf
+
+------------------------
+Epoch 411
+Train time 7.502135753631592
+Best key: abdhfuwpjrztcxsiyvgnkloemq
+Loss: 130000036.32139058
+ezimb jgigi rtian btudi gdnmz tagir tencf ybrtf fibbe ttm
+
+------------------------
+Epoch 412
+Train time 8.074358701705933
+Best key: njbwucfvxhqardkmigeplozsyt
+Loss: 130000033.68418682
+gkbfc mdbdb habli caojb djifk aldbh agine pchae ebccg aaf
+
+------------------------
+Epoch 413
+Train time 7.655223846435547
+Best key: abehcklingfvsxwyrutjmpqzod
+Loss: 140000021.98474336
+kwteb qotot litan bifdt odnew iaotl iknzr ublir rtbbk iie
+
+------------------------
+Epoch 414
+Train time 7.579665899276733
+Best key: abdhfuwpjrztcxsiyvgnkloemq
+Loss: 130000036.32139058
+ezimb jgigi rtian btudi gdnmz tagir tencf ybrtf fibbe ttm
+
+------------------------
+Epoch 415
+Train time 7.583055019378662
+Best key: abdhfuwpjrztcxsiyvgnkloemq
+Loss: 130000036.32139058
+ezimb jgigi rtian btudi gdnmz tagir tencf ybrtf fibbe ttm
+
+------------------------
+Epoch 416
+Train time 7.53240180015564
+Best key: abdhfuwpjrztcxsiyvgnkloemq
+Loss: 130000036.32139058
+ezimb jgigi rtian btudi gdnmz tagir tencf ybrtf fibbe ttm
+
+------------------------
+Epoch 417
+Train time 7.728158950805664
+Best key: abdhfuwpjrztcxsiyvgnkloemq
+Loss: 130000036.32139058
+ezimb jgigi rtian btudi gdnmz tagir tencf ybrtf fibbe ttm
+
+------------------------
+Epoch 418
+Train time 7.886110067367554
+Best key: njbwxcfvuhqadmkreiglopstzy
+Loss: 130000033.72434954
+gkbfc pdbdb hable caojb djefk aldbh agemi nchai ibccg aaf
+
+------------------------
+Epoch 419
+Train time 7.321683883666992
+Best key: abdhfuwpjrztcxsiyvgnkloemq
+Loss: 130000036.32139058
+ezimb jgigi rtian btudi gdnmz tagir tencf ybrtf fibbe ttm
+
+------------------------
+Epoch 420
+Train time 7.265215873718262
+Best key: abdhftwpjrzucxgiyvsnkloemq
+Loss: 120000049.59764673
+ezimb jgigi rtian btudi gdnmz tagir tencl ybrtl libbe ttm
+
+------------------------
+Epoch 421
+Train time 7.260138034820557
+Best key: abdhftwpjrzucxgiyvsnkloemq
+Loss: 120000049.59764673
+ezimb jgigi rtian btudi gdnmz tagir tencl ybrtl libbe ttm
+
+------------------------
+Epoch 422
+Train time 7.169322967529297
+Best key: abdhfuzpjrwtcvsiyxgnkloemq
+Loss: 110000058.5966582
+ezimb jkiki ntiar btudi kdrmz takin tercf ybntf fibbe ttm
+
+------------------------
+Epoch 423
+Train time 7.143276214599609
+Best key: abdhfuzpjrwtcvsiyxgnkloemq
+Loss: 110000058.5966582
+ezimb jkiki ntiar btudi kdrmz takin tercf ybntf fibbe ttm
+
+------------------------
+Epoch 424
+Train time 7.14847469329834
+Best key: abchfuwpjrztdvsiyxgnkloemq
+Loss: 120000046.36082183
+ezicb jgigi ntiar btudi gdrcz tagin termf ybntf fibbe ttc
+
+------------------------
+Epoch 425
+Train time 7.158977031707764
+Best key: abdhfuzpjrwtcvsiyxgnkloemq
+Loss: 110000058.5966582
+ezimb jkiki ntiar btudi kdrmz takin tercf ybntf fibbe ttm
+
+------------------------
+Epoch 426
+Train time 7.181323766708374
+Best key: abdhfuzpjrwtcvsiyxgnkloemq
+Loss: 110000058.5966582
+ezimb jkiki ntiar btudi kdrmz takin tercf ybntf fibbe ttm
+
+------------------------
+Epoch 427
+Train time 7.574471950531006
+Best key: abdhfuzpjrwtcvsiyxgnkloemq
+Loss: 110000058.5966582
+ezimb jkiki ntiar btudi kdrmz takin tercf ybntf fibbe ttm
+
+------------------------
+Epoch 428
+Train time 7.625859022140503
+Best key: abdhfuzpjrwtcvsiyxgnkloemq
+Loss: 110000058.5966582
+ezimb jkiki ntiar btudi kdrmz takin tercf ybntf fibbe ttm
+
+------------------------
+Epoch 429
+Train time 7.2130560874938965
+Best key: njbwxcfvuqhardmkigeoplsyzt
+Loss: 120000045.13738725
+gjbfc mdbdb hable capkb dkefj aldbh ageni ochai ibccg aaf
+
+------------------------
+Epoch 430
+Train time 7.467172861099243
+Best key: abdhfuzpjrwtcvsiyxgnkloemq
+Loss: 110000058.5966582
+ezimb jkiki ntiar btudi kdrmz takin tercf ybntf fibbe ttm
+
+------------------------
+Epoch 431
+Train time 7.4170122146606445
+Best key: abdhfuzpjrwtcvsiyxgnkloemq
+Loss: 110000058.5966582
+ezimb jkiki ntiar btudi kdrmz takin tercf ybntf fibbe ttm
+
+------------------------
+Epoch 432
+Train time 7.3137311935424805
+Best key: abdhfuzpjrwtcvsiyxgnkloemq
+Loss: 110000058.5966582
+ezimb jkiki ntiar btudi kdrmz takin tercf ybntf fibbe ttm
+
+------------------------
+Epoch 433
+Train time 7.4356348514556885
+Best key: jnbwfvxcdqhamukreigolpzsty
+Loss: 140000019.40671164
+ejahc pdada fbalg cboka dkghj bldaf begin mcfbn nacce bbh
+
+------------------------
+Epoch 434
+Train time 7.457815170288086
+Best key: njbwxcfvuhqalmkdeigropzsty
+Loss: 140000022.64531797
+gkbfc tdbdb hable caojb djefk aldbh agepi nchai ibccg aaf
+
+------------------------
+Epoch 435
+Train time 7.4297120571136475
+Best key: abdmhnfcwxqupjzksgvltiroye
+Loss: 140000023.16166824
+gknhb winin sfnaj bfpen iejhk fains fgjcl dbsfl lnbbg ffh
+
+------------------------
+Epoch 436
+Train time 7.416599988937378
+Best key: abdfhuzpjrwtcvsiyxgnkolemq
+Loss: 140000023.42185014
+dzimb jkiki ntiar btuei kermz takin tdrcf ybntf fibbd ttm
+
+------------------------
+Epoch 437
+Train time 7.431488752365112
+Best key: abdmhnfcwxqupjzksgvltiroye
+Loss: 140000023.16166824
+gknhb winin sfnaj bfpen iejhk fains fgjcl dbsfl lnbbg ffh
+
+------------------------
+Epoch 438
+Train time 7.45165491104126
+Best key: njbwxcfvuaqhrdmkgeipoltsyz
+Loss: 130000039.04272304
+gkbfc mdbdb habje caplb dlefk ajdbh ageni ochai ibccg aaf
+
+------------------------
+Epoch 439
+Train time 7.499855279922485
+Best key: abdmpfxcwyzuijnqlvhosrgtke
+Loss: 130000039.82794847
+fpnhb vinin ronag boysn isghp oainr ofgcl dbrol lnbbf ooh
+
+------------------------
+Epoch 440
+Train time 7.407853126525879
+Best key: abdmpfxcwyzuijnqlvhosrgtke
+Loss: 130000039.82794847
+fpnhb vinin ronag boysn isghp oainr ofgcl dbrol lnbbf ooh
+
+------------------------
+Epoch 441
+Train time 7.488996982574463
+Best key: abdmpfxcwyzuijnqlvhosrgtke
+Loss: 130000039.82794847
+fpnhb vinin ronag boysn isghp oainr ofgcl dbrol lnbbf ooh
+
+------------------------
+Epoch 442
+Train time 7.36536717414856
+Best key: abhlvnuywmqfcjdgiozrpetxsk
+Loss: 140000022.79827434
+lknmb tinin efnax bfzcn icxmk faine flxog jbefg gnbbl ffm
+
+------------------------
+Epoch 443
+Train time 7.36597204208374
+Best key: abhlvnuywmqfcjdgiozrpetxsk
+Loss: 140000022.79827434
+lknmb tinin efnax bfzcn icxmk faine flxog jbefg gnbbl ffm
+
+------------------------
+Epoch 444
+Train time 7.36700701713562
+Best key: abhlvnuywmqfcjdgiozrpetxsk
+Loss: 140000022.79827434
+lknmb tinin efnax bfzcn icxmk faine flxog jbefg gnbbl ffm
+
+------------------------
+Epoch 445
+Train time 7.288316965103149
+Best key: abhlvnuywmqfcjdgiozrpetxsk
+Loss: 140000022.79827434
+lknmb tinin efnax bfzcn icxmk faine flxog jbefg gnbbl ffm
+
+------------------------
+Epoch 446
+Train time 7.451785326004028
+Best key: abhlvnuywmqfcjdgiozrpetxsk
+Loss: 140000022.79827434
+lknmb tinin efnax bfzcn icxmk faine flxog jbefg gnbbl ffm
+
+------------------------
+Epoch 447
+Train time 7.410467863082886
+Best key: njbwxcfvuqhardkmigepsoltzy
+Loss: 130000032.55427828
+gjbfc mdbdb hable caokb dkefj aldbh ageni pchai ibccg aaf
+
+------------------------
+Epoch 448
+Train time 7.367172956466675
+Best key: abhlvnuywxqfcjdgiozrpetmsk
+Loss: 140000022.79827434
+lknmb tinin efnaj bfzcn icjmk faine fljog xbefg gnbbl ffm
+
+------------------------
+Epoch 449
+Train time 7.6072258949279785
+Best key: adbmhntcwxqupjoksgvlfzriye
+Loss: 140000023.16166824
+uknhc winin sfnaj cfpen iejhk fains fujbl dcsfl lnccu ffh
+
+------------------------
+Epoch 450
+Train time 7.8293750286102295
+Best key: abhlvcuywxqfnjdgiozrpetmsk
+Loss: 130000031.78321525
+lknfb tinin emnaj bmzcn icjfk maine mljog xbemg gnbbl mmf
+
+------------------------
+Epoch 451
+Train time 7.785690784454346
+Best key: abhlvcuywxqfnjdgiozrpetmsk
+Loss: 130000031.78321525
+lknfb tinin emnaj bmzcn icjfk maine mljog xbemg gnbbl mmf
+
+------------------------
+Epoch 452
+Train time 7.213971138000488
+Best key: abhlvcuywxqfnjdgiozrpetmsk
+Loss: 130000031.78321525
+lknfb tinin emnaj bmzcn icjfk maine mljog xbemg gnbbl mmf
+
+------------------------
+Epoch 453
+Train time 7.2162840366363525
+Best key: abhlvcuywxqfnjdgiozrpetmsk
+Loss: 130000031.78321525
+lknfb tinin emnaj bmzcn icjfk maine mljog xbemg gnbbl mmf
+
+------------------------
+Epoch 454
+Train time 7.242639064788818
+Best key: abhlvcuywxqfnjdgiozrpetmsk
+Loss: 130000031.78321525
+lknfb tinin emnaj bmzcn icjfk maine mljog xbemg gnbbl mmf
+
+------------------------
+Epoch 455
+Train time 7.331159830093384
+Best key: abhednorwxiypjtkslvgfzmquc
+Loss: 140000021.55223033
+uxnzb hinin sfnaj bfpcn icjzx fains fujey wbsfy ynbbu ffz
+
+------------------------
+Epoch 456
+Train time 7.2076098918914795
+Best key: abhlvcuywxqfnjdgiozrpetmsk
+Loss: 130000031.78321525
+lknfb tinin emnaj bmzcn icjfk maine mljog xbemg gnbbl mmf
+
+------------------------
+Epoch 457
+Train time 7.199601888656616
+Best key: abhlvcuywxqfnjdgiozrpetmsk
+Loss: 130000031.78321525
+lknfb tinin emnaj bmzcn icjfk maine mljog xbemg gnbbl mmf
+
+------------------------
+Epoch 458
+Train time 7.22950291633606
+Best key: abdxqcumjfiywlksentvzgphro
+Loss: 110000068.81130019
+jeifb ymimi triad broxi mxdfe ramit rjdcg hbtrg gibbj rrf
+
+------------------------
+Epoch 459
+Train time 7.592747926712036
+Best key: abhlvcuywxqtnjdgiozrpefmsk
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjog xbemg gnbbw mmf
+
+------------------------
+Epoch 460
+Train time 7.245856046676636
+Best key: abdxqcumjfiywlksentvzgphro
+Loss: 110000068.81130019
+jeifb ymimi triad broxi mxdfe ramit rjdcg hbtrg gibbj rrf
+
+------------------------
+Epoch 461
+Train time 7.247313737869263
+Best key: abhlvcuywxqtnjdgiozrpefmsk
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjog xbemg gnbbw mmf
+
+------------------------
+Epoch 462
+Train time 7.203152894973755
+Best key: abdxqcumjfiywlskentvzgphro
+Loss: 120000055.53504404
+jeifb ymimi triad brpxi mxdfe ramit rjdcg hbtrg gibbj rrf
+
+------------------------
+Epoch 463
+Train time 7.213706970214844
+Best key: abhlvcuywxqtnjdgiozrpefmsk
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjog xbemg gnbbw mmf
+
+------------------------
+Epoch 464
+Train time 7.195739030838013
+Best key: abdxqcumjfiywlskentvzgphro
+Loss: 120000055.53504404
+jeifb ymimi triad brpxi mxdfe ramit rjdcg hbtrg gibbj rrf
+
+------------------------
+Epoch 465
+Train time 7.2088541984558105
+Best key: abdxqcumjfiywlskentvzgphro
+Loss: 120000055.53504404
+jeifb ymimi triad brpxi mxdfe ramit rjdcg hbtrg gibbj rrf
+
+------------------------
+Epoch 466
+Train time 7.200562953948975
+Best key: abhlvcuywxqtnjdmiozrpefgsk
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjog pbemg gnbbw mmf
+
+------------------------
+Epoch 467
+Train time 7.210186958312988
+Best key: abhlvcuywxqtnjdmiozrpefgsk
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjog pbemg gnbbw mmf
+
+------------------------
+Epoch 468
+Train time 7.19707179069519
+Best key: njbwcufvxhqardmkgeilpotsyz
+Loss: 130000039.09583287
+gkbec mdbdb habli capjb djiek aldbh aginf ochaf fbccg aae
+
+------------------------
+Epoch 469
+Train time 7.18535590171814
+Best key: abhlvcuywxqtnjsmiozrpefgdk
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjyg pbemg gnbbw mmf
+
+------------------------
+Epoch 470
+Train time 7.195376873016357
+Best key: abhlvcuywxqtnjsmiozrpefgdk
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjyg pbemg gnbbw mmf
+
+------------------------
+Epoch 471
+Train time 7.206115961074829
+Best key: abhlvcuywxqtnjsmiozrpefgdk
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjyg pbemg gnbbw mmf
+
+------------------------
+Epoch 472
+Train time 7.189049243927002
+Best key: abhlvcuywxqtnjsmiozrpefgdk
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjyg pbemg gnbbw mmf
+
+------------------------
+Epoch 473
+Train time 7.191139221191406
+Best key: abhlvcuywxqtnjsmiozrpefgdk
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjyg pbemg gnbbw mmf
+
+------------------------
+Epoch 474
+Train time 7.1975579261779785
+Best key: abhlvcuywxqtnjsmiozrpefgdk
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjyg pbemg gnbbw mmf
+
+------------------------
+Epoch 475
+Train time 7.208464860916138
+Best key: njbwxcfvuhqardmkegipolszty
+Loss: 120000045.13738725
+gkbfc mdbdb hable capjb djefk aldbh ageni ochai ibccg aaf
+
+------------------------
+Epoch 476
+Train time 7.216615200042725
+Best key: abhlvcuywxqtnjsmdozrpefgik
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqg pbemg gnbbw mmf
+
+------------------------
+Epoch 477
+Train time 7.205625295639038
+Best key: abhlvcuywxqtnjsmdozrpefgik
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqg pbemg gnbbw mmf
+
+------------------------
+Epoch 478
+Train time 7.205348014831543
+Best key: abhlvcuywxqtnjsmdozrpefgik
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqg pbemg gnbbw mmf
+
+------------------------
+Epoch 479
+Train time 7.209829807281494
+Best key: abhlvcuywxqtnjsmdozrpefgik
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqg pbemg gnbbw mmf
+
+------------------------
+Epoch 480
+Train time 7.190696954727173
+Best key: abhlvcuywxqtnjsmdozrpefgik
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqg pbemg gnbbw mmf
+
+------------------------
+Epoch 481
+Train time 7.186459064483643
+Best key: abhlvcuywxqtnjsmdozrpefgik
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqg pbemg gnbbw mmf
+
+------------------------
+Epoch 482
+Train time 7.218006134033203
+Best key: abhlvcuywxqtnjsmdozrpefgik
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqg pbemg gnbbw mmf
+
+------------------------
+Epoch 483
+Train time 7.199387788772583
+Best key: abhlvcuywxqtnjsmdozrpefgik
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqg pbemg gnbbw mmf
+
+------------------------
+Epoch 484
+Train time 7.202818870544434
+Best key: abhlvcuywxqtnjsmdozrpefgik
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqg pbemg gnbbw mmf
+
+------------------------
+Epoch 485
+Train time 7.277466058731079
+Best key: abhlvcuywxqtnjsmdozrpefgik
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqg pbemg gnbbw mmf
+
+------------------------
+Epoch 486
+Train time 7.299986839294434
+Best key: abhlvcuywxqtnjsmdozrpefgik
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqg pbemg gnbbw mmf
+
+------------------------
+Epoch 487
+Train time 7.281703948974609
+Best key: abhlvcuywxqtnjsmdozrpefgik
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqg pbemg gnbbw mmf
+
+------------------------
+Epoch 488
+Train time 7.191276788711548
+Best key: abhlvcuywxqtnjsmdozrpefgik
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqg pbemg gnbbw mmf
+
+------------------------
+Epoch 489
+Train time 7.189903020858765
+Best key: abhlvcuywxqtnjsmdozrpefgik
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqg pbemg gnbbw mmf
+
+------------------------
+Epoch 490
+Train time 7.225887775421143
+Best key: abhlvcuywxqtnjsmdozrpefgik
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqg pbemg gnbbw mmf
+
+------------------------
+Epoch 491
+Train time 7.203088045120239
+Best key: abhlvcuywxqtnjsmdozrpefgik
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqg pbemg gnbbw mmf
+
+------------------------
+Epoch 492
+Train time 7.209816932678223
+Best key: abhlvcuywxqtnjsmdozrpefgik
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqg pbemg gnbbw mmf
+
+------------------------
+Epoch 493
+Train time 7.194210767745972
+Best key: abhlvcuywxqtnjsmdozrpefgik
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqg pbemg gnbbw mmf
+
+------------------------
+Epoch 494
+Train time 7.243836879730225
+Best key: abhlvcuywxqtnjsmdozrpefgik
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqg pbemg gnbbw mmf
+
+------------------------
+Epoch 495
+Train time 7.239849090576172
+Best key: abhlvcuywxqtnjsmdozrpefgik
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqg pbemg gnbbw mmf
+
+------------------------
+Epoch 496
+Train time 7.210224866867065
+Best key: abhlvcuywxqtnjsmdozrpefgik
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqg pbemg gnbbw mmf
+
+------------------------
+Epoch 497
+Train time 7.196844816207886
+Best key: abhlvcuywxqtnjsmdozrpefgik
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqg pbemg gnbbw mmf
+
+------------------------
+Epoch 498
+Train time 7.202461004257202
+Best key: abhlvcuywxqtnjsmdozrpefgik
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqg pbemg gnbbw mmf
+
+------------------------
+Epoch 499
+Train time 7.203697204589844
+Best key: abhlvcuywxqtnjsmdozrpefgik
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqg pbemg gnbbw mmf
+
+------------------------
+Epoch 500
+Train time 7.193449974060059
+Best key: abhlvcuywxqtnjsmdozrpefgik
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqg pbemg gnbbw mmf
+
+------------------------
+Epoch 501
+Train time 7.209267854690552
+Best key: abhlvcuywxqtnjsmdozrpefgik
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqg pbemg gnbbw mmf
+
+------------------------
+Epoch 502
+Train time 7.20647120475769
+Best key: abhlvcuywxqtnjsmdozrpefgik
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqg pbemg gnbbw mmf
+
+------------------------
+Epoch 503
+Train time 7.199196815490723
+Best key: abhlvcuywxqtnjsmdozrpefgik
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqg pbemg gnbbw mmf
+
+------------------------
+Epoch 504
+Train time 7.2073750495910645
+Best key: abhlvcuywxqtnjsmdozrpefgik
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqg pbemg gnbbw mmf
+
+------------------------
+Epoch 505
+Train time 7.2158589363098145
+Best key: abhlvcuywxqtnjsmdozrpefgik
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqg pbemg gnbbw mmf
+
+------------------------
+Epoch 506
+Train time 7.202739953994751
+Best key: abgqdlprjszowuefmhnkxivcyt
+Loss: 140000024.7739191
+pdixb hmimi wsiau bstri mruxd samiw spuen qbwsn nibbp ssx
+
+------------------------
+Epoch 507
+Train time 7.210916042327881
+Best key: abhlvcmywxqtnjsudozrpefgik
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqp gbemp pnbbw mmf
+
+------------------------
+Epoch 508
+Train time 7.192873001098633
+Best key: abhlvcmywxqtnjsudozrpefgik
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqp gbemp pnbbw mmf
+
+------------------------
+Epoch 509
+Train time 7.208176136016846
+Best key: abhlvcmywxqtnjsudozrpefgik
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqp gbemp pnbbw mmf
+
+------------------------
+Epoch 510
+Train time 7.19557523727417
+Best key: abhlvcmywxqtnjsudozrpefgik
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqp gbemp pnbbw mmf
+
+------------------------
+Epoch 511
+Train time 7.205478191375732
+Best key: abhlvcmywxqtnjsudozrpefgik
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqp gbemp pnbbw mmf
+
+------------------------
+Epoch 512
+Train time 7.200140953063965
+Best key: abhnjofequstvrdzixmwkygcpl
+Loss: 140000021.6280684
+giexb ntete mdear bduce tcrxi datem dgroj sbmdj jebbg ddx
+
+------------------------
+Epoch 513
+Train time 7.206815958023071
+Best key: abhlvcmiwxqtnjsudozrpefgyk
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqp gbemp pnbbw mmf
+
+------------------------
+Epoch 514
+Train time 7.1971800327301025
+Best key: abhlvcmiwxqtnjsudozrpefgyk
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqp gbemp pnbbw mmf
+
+------------------------
+Epoch 515
+Train time 7.189617872238159
+Best key: abhlvcmiwxqtnjsudozrpefgyk
+Loss: 130000031.78321525
+wknfb tinin emnaj bmzcn icjfk maine mwjqp gbemp pnbbw mmf
+
+------------------------
+Epoch 516
+Train time 7.5279860496521
+Best key: abhnjofequstvrdzixmwkygcpl
+Loss: 140000021.6280684
+giexb ntete mdear bduce tcrxi datem dgroj sbmdj jebbg ddx
+
+------------------------
+Epoch 517
+Train time 9.908627271652222
+Best key: aphlvcmiwxqtnjsudozrbefgyk
+Loss: 130000031.78321525
+wknfu tinin emnaj umzcn icjfk maine mwjqp guemp pnuuw mmf
+
+------------------------
+Epoch 518
+Train time 7.565389156341553
+Best key: njbwxcfuvqhadrmkigelposzyt
+Loss: 140000019.38338265
+gjbfc ndbdb iable capkb dkefj aldbi agemh ociah hbccg aaf
+
+------------------------
+Epoch 519
+Train time 7.965986013412476
+Best key: abhnjofequstvrdzixmwkygcpl
+Loss: 140000021.6280684
+giexb ntete mdear bduce tcrxi datem dgroj sbmdj jebbg ddx
+
+------------------------
+Epoch 520
+Train time 7.64303994178772
+Best key: njbwxufvchqadmrkeiglopzsty
+Loss: 130000036.36340685
+gkbic odbdb hable capjb djeik aldbh agemf nchaf fbccg aai
+
+------------------------
+Epoch 521
+Train time 7.297424077987671
+Best key: abcwetxijyghokpszuvqnlrdmf
+Loss: 130000041.33202587
+zticb wdidi suiag bunli dlgct uadis uzgxr ybsur ribbz uuc
+
+------------------------
+Epoch 522
+Train time 7.279359817504883
+Best key: njbwxcfvuhqakdmrigepolzsyt
+Loss: 120000045.13738725
+gkbfc pdbdb hable camjb djefk aldbh ageni ochai ibccg aaf
+
+------------------------
+Epoch 523
+Train time 7.296627998352051
+Best key: njbwxcfvuazhrdkmgieoplytqs
+Loss: 140000026.4596141
+gybfc mdbdb habje caolb dlefy ajdbh ageni pchai ibccg aaf
+
+------------------------
+Epoch 524
+Train time 7.268641710281372
+Best key: njbwucfvxhqakmrdepilogtyzs
+Loss: 140000027.20587108
+gkbfc odbdb habli camjb djifk aldbh agipe nchae ebccg aaf
+
+------------------------
+Epoch 525
+Train time 7.2779929637908936
+Best key: abdsqkgxjeihzucftmnlvwrpoy
+Loss: 140000027.65030462
+peiob wvivi usiah bsfli vlhoe saviu sphcn rbusn nibbp sso
+
+------------------------
+Epoch 526
+Train time 7.270272970199585
+Best key: njbwufcvxqhadmkrieglpotsyz
+Loss: 140000027.20587108
+fjbgc pdbdb habli caokb dkigj aldbh afime nchae ebccf aag
+
+------------------------
+Epoch 527
+Train time 7.264594078063965
+Best key: njbwxufvclhardmkiegpoqytzs
+Loss: 130000037.86748426
+gvbic mdbdb hable capkb dkeiv aldbh agenf ochaf fbccg aai
+
+------------------------
+Epoch 528
+Train time 7.272449016571045
+Best key: jnbwfvucxhamqdrkeigpoltszy
+Loss: 140000024.88935745
+emahc odada fbaki cbpja djihm bkdaf being lcfbg gacce bbh
+
+------------------------
+Epoch 529
+Train time 7.267477035522461
+Best key: abjivpyomlfzgxkrqtncwehsdu
+Loss: 130000039.33345927
+kqctb pucuc escan bsowc uwntq sauce sknyz ibesz zcbbk sst
+
+------------------------
+Epoch 530
+Train time 7.270573139190674
+Best key: njbwucfvxqhamdkrgielpotysz
+Loss: 130000033.68418682
+gjbfc pdbdb habli caokb dkifj aldbh agine mchae ebccg aaf
+
+------------------------
+Epoch 531
+Train time 7.273413181304932
+Best key: njbwucfvxhqamdrkgeiolpzsty
+Loss: 130000033.68418682
+gkbfc odbdb habli capjb djifk aldbh agine mchae ebccg aaf
+
+------------------------
+Epoch 532
+Train time 7.281458854675293
+Best key: abfcjdueqmovlykhtngwzsrixp
+Loss: 140000021.07530627
+ciedb wtete lreay brope tpydi ratel rcyfg jblrg gebbc rrd
+
+------------------------
+Epoch 533
+Train time 7.2832350730896
+Best key: njbwxufvchqadmrkegioplztys
+Loss: 130000036.36340685
+gkbic odbdb hable capjb djeik aldbh agemf nchaf fbccg aai
+
+------------------------
+Epoch 534
+Train time 7.2844977378845215
+Best key: abhgjuqzklpnovwetmxfrysicd
+Loss: 140000018.78240758
+tgeyb uoeoe nleas blice ocsyg laoen ltszf rbnlf febbt lly
+
+------------------------
+Epoch 535
+Train time 7.284692049026489
+Best key: abhgjuqzklpnovwetmxfrysicd
+Loss: 140000018.78240758
+tgeyb uoeoe nleas blice ocsyg laoen ltszf rbnlf febbt lly
+
+------------------------
+Epoch 536
+Train time 7.296630620956421
+Best key: abhgjuqzklpnovwetmxfrysicd
+Loss: 140000018.78240758
+tgeyb uoeoe nleas blice ocsyg laoen ltszf rbnlf febbt lly
+
+------------------------
+Epoch 537
+Train time 7.28641414642334
+Best key: abhvjgpndlozrimkswuqcxytfe
+Loss: 140000022.55996856
+yteub mrere dheav bhpce rcvut hared hyvis obdhs sebby hhu
+
+------------------------
+Epoch 538
+Train time 7.269635200500488
+Best key: abcqkwituedygrmzlhnfvjxpso
+Loss: 140000021.24490398
+tdvcb nfvfv usvaw bserv frwcd safvu stwki obusi ivbbt ssc
+
+------------------------
+Epoch 539
+Train time 7.2852959632873535
+Best key: njbwxcfvuahokdmrigelqpytsz
+Loss: 120000052.31897919
+gubfc pdbdb habje camkb dkefu ajdbh ageni ochai ibccg aaf
+
+------------------------
+Epoch 540
+Train time 7.273806095123291
+Best key: abhgjuqzkopnlvwetmxfrysicd
+Loss: 140000018.78240758
+tgeyb uoeoe nleas blice ocsyg laoen ltszf rbnlf febbt lly
+
+------------------------
+Epoch 541
+Train time 7.2841103076934814
+Best key: abgdkzmcwvxlsnfipqujhretyo
+Loss: 130000038.42103481
+orthb vitit jntak bneut iukhr naitj nokds gbjns stbbo nnh
+
+------------------------
+Epoch 542
+Train time 7.27423095703125
+Best key: abgdkzmcwvxlsnfipqujhretyo
+Loss: 130000038.42103481
+orthb vitit jntak bneut iukhr naitj nokds gbjns stbbo nnh
+
+------------------------
+Epoch 543
+Train time 7.28700590133667
+Best key: abgdkzmcwvxlsnfipqujhretyo
+Loss: 130000038.42103481
+orthb vitit jntak bneut iukhr naitj nokds gbjns stbbo nnh
+
+------------------------
+Epoch 544
+Train time 7.357806921005249
+Best key: abhgjuqzkcpnlvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 545
+Train time 7.311830759048462
+Best key: abhgjuqzkcpnlvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 546
+Train time 7.341219902038574
+Best key: abhgjuqzkcpnlvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 547
+Train time 7.43004846572876
+Best key: abhgjuqzkcpnlvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 548
+Train time 7.557057619094849
+Best key: abhgjuqzkcpnlvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 549
+Train time 7.433245897293091
+Best key: abhgjuqzkcpnlvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 550
+Train time 7.469079971313477
+Best key: abhgjuqzkcpnlvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 551
+Train time 7.573124170303345
+Best key: njbwcufvxqhakdmreglpioszyt
+Loss: 130000039.09583287
+gjbec pdbdb habli camkb dkiej aldbh aginf ochaf fbccg aae
+
+------------------------
+Epoch 552
+Train time 7.836748123168945
+Best key: abhgjuqzkcpnlvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 553
+Train time 8.002047061920166
+Best key: abhgjuqzkcpnlvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 554
+Train time 7.763361930847168
+Best key: abhgjuqzkcpnlvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 555
+Train time 7.726358890533447
+Best key: abhgjuqzkcpnlvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 556
+Train time 7.475900888442993
+Best key: abhgjuqzkcpnlvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 557
+Train time 8.156735897064209
+Best key: abhgjuqzkcpnlvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 558
+Train time 8.29761791229248
+Best key: abhgjuqzkcpnlvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 559
+Train time 8.351284980773926
+Best key: abhgjuqzkcpnlvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 560
+Train time 8.093379735946655
+Best key: njbwxfcvuqhadmrkgeiolpyzts
+Loss: 130000034.31213619
+fjbgc odbdb hable capkb dkegj aldbh afemi nchai ibccf aag
+
+------------------------
+Epoch 561
+Train time 9.177953958511353
+Best key: abhgjuqzkcpnlvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 562
+Train time 8.2989821434021
+Best key: abhgjuqzkcpnlvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 563
+Train time 8.346810817718506
+Best key: abhgjuqzkcpnlvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 564
+Train time 7.491472005844116
+Best key: abhgjuqzkcpnlvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 565
+Train time 7.846351146697998
+Best key: abhgjuqzkcpnlvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 566
+Train time 7.667857885360718
+Best key: abhgjuqzkcpnlvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 567
+Train time 7.715293884277344
+Best key: abhgjuqzkcpnlvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 568
+Train time 8.258236169815063
+Best key: njbwxcfvuahqrmdkoeiplgsytz
+Loss: 140000027.1878526
+glbfc mdbdb habje capkb dkefl ajdbh ageoi nchai ibccg aaf
+
+------------------------
+Epoch 569
+Train time 7.741945028305054
+Best key: abhgjuqzkcpnlvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 570
+Train time 7.406116008758545
+Best key: abhgjuqzkcpnlvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 571
+Train time 7.714940786361694
+Best key: abhgjuqzkcpnlvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 572
+Train time 7.932892322540283
+Best key: abhiowrfkcpnlxdeumvjgyszqt
+Loss: 140000025.76155287
+hytjb gftft sltan blict fcnjy lafts lhnoq rbslq qtbbh llj
+
+------------------------
+Epoch 573
+Train time 8.081140041351318
+Best key: abhgjuqlkcpnzvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 574
+Train time 7.471951723098755
+Best key: abhgjuqlkcpnzvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 575
+Train time 7.7447168827056885
+Best key: abhgjuqlkcpnzvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 576
+Train time 7.774775743484497
+Best key: abhgjuqlkcpnzvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 577
+Train time 7.861613035202026
+Best key: abhgjuqlkcpnzvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 578
+Train time 7.7453227043151855
+Best key: abhgjuqlkcpnzvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 579
+Train time 7.501872301101685
+Best key: abhgjuqlkcpnzvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 580
+Train time 7.648066997528076
+Best key: abhgjuqlkcpnzvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 581
+Train time 7.791399240493774
+Best key: abhgjuqlkcpnzvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 582
+Train time 7.904612064361572
+Best key: abhgjuqlkcpnzvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 583
+Train time 7.562690019607544
+Best key: njbwxcfvuhqadrmtiegploykzs
+Loss: 130000034.9771125
+gkbfc ndbdb hable caxjb djefk aldbh agemi ochai ibccg aaf
+
+------------------------
+Epoch 584
+Train time 7.8740458488464355
+Best key: abhgjuqlkcpnzvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 585
+Train time 7.968803882598877
+Best key: abhgjuqlkcpnzvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 586
+Train time 7.673358917236328
+Best key: abhgjuqlkcpnzvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 587
+Train time 7.497486114501953
+Best key: abhgjuqlkcpnzvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 588
+Train time 7.457890033721924
+Best key: abhgjuqlkcpnzvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 589
+Train time 7.638364315032959
+Best key: abhgjuqlkcpnzvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 590
+Train time 7.646967172622681
+Best key: abhgjuqlkcpnzvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 591
+Train time 7.966145038604736
+Best key: abhgjuqlkcpnzvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 592
+Train time 8.260043859481812
+Best key: abhgjuqlkcpnzvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 593
+Train time 7.831242799758911
+Best key: njbwxcfuvqhakdrmiegolptsyz
+Loss: 150000010.25026125
+gjbfc odbdb iable camkb dkefj aldbi agenh pciah hbccg aaf
+
+------------------------
+Epoch 594
+Train time 8.255275011062622
+Best key: njbwxcfuvhqadkmregipolzsty
+Loss: 140000019.38338265
+gkbfc pdbdb iable canjb djefk aldbi agemh ociah hbccg aaf
+
+------------------------
+Epoch 595
+Train time 7.798410892486572
+Best key: abhgjuqlkcpnzvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 596
+Train time 8.022629261016846
+Best key: abhgjuqlkcpnzvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 597
+Train time 7.690190076828003
+Best key: abhgjuqlkcpnzvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 598
+Train time 7.5608508586883545
+Best key: abhgjuqlkcpnzvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 599
+Train time 8.180117130279541
+Best key: abhgjuqlkcpnzvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 600
+Train time 7.692781209945679
+Best key: abhgjuqlkcpnzvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 601
+Train time 8.035403966903687
+Best key: vbhqscpmwoluizxfknejardtgy
+Loss: 110000064.0668258
+pdtfb vitit artuo brqct icofd ruita rpowl hbarl ltbbp rrf
+
+------------------------
+Epoch 602
+Train time 7.651573896408081
+Best key: abhgjuqlkcpnzvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 603
+Train time 7.444498777389526
+Best key: abhgjuqlkcpnzvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 604
+Train time 7.356645822525024
+Best key: abhgjuqlkcpnzvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 605
+Train time 7.340043067932129
+Best key: abhgjuqlkcpnzvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 606
+Train time 7.347800254821777
+Best key: abhgjuqlkcpnzvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 607
+Train time 7.336286783218384
+Best key: abhgjuqlkcpnzvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 608
+Train time 7.309241056442261
+Best key: abhgjuqlkcpnzvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 609
+Train time 7.379429817199707
+Best key: abhgjuqlkcpnzvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 610
+Train time 7.357654094696045
+Best key: abhgjuqlkcpnzvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
+------------------------
+Epoch 611
+Train time 7.349055051803589
+Best key: abhgjuqlkcpnzvdetmxfrysiow
+Loss: 120000044.6417727
+tgejb uzeze nleas blice zcsjg lazen ltsof rbnlf febbt llj
+
